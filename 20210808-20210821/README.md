@@ -1,5 +1,4 @@
 ### 成果推荐及讨论
-#### 8.8
 
 - ##### [Mahmoud Afifi](https://twitter.com/mahmoudnafifi/status/1424180438101368835)
   Excited to announce that our paper on cross-camera color constancy has been accepted as an oral presentation at #ICCV2021
@@ -13,7 +12,6 @@
   <div align=center><img src="materials/1424180438101368835-2.jpg" alt="Cover" width="75%"/></div>
 
 
-#### 8.9
 - ##### [Andrej Karpathy](https://twitter.com/karpathy/status/1424469506403934210)
   Perceiver IO is good reading/pointers for neural net architectures https://arxiv.org/abs/2107.14795 esp w.r.t. encoding/decoding schemes of various modalities to normalize them to & from Transformer-amenable latent space (a not-too-large set of vectors), where the bulk of compute happens.
   
@@ -24,7 +22,6 @@
   - **Drezil @kif.rocks:** And it feels to me like that is is indeed general, but not small enough in many cases (meaning there is a way smaller architecture with the same performance).
 
 
-#### 8.11
 - ##### [Chaitanya K. Joshi](https://twitter.com/chaitjo/status/1425389897423069188)
   Hi GNN friends, I'm creating an awesome-list on efficient Graph Neural Networks and scalable Graph Representation Learning. I'm excited about real-world applications of GNNs, and am looking to learn more about deploying them! Please help improve: https://github.com/chaitjo/awesome-efficient-gnn
   
@@ -32,8 +29,7 @@
   
   - **Chaitanya K. Joshi:** I am thinking of creating a new list on the intersection of GNNs and combinatorial optimization, which is another area I've been looking at recently. (But I do wonder if that line of research is already being deployed in real-world systems?)
   
-  
-#### 8.12
+
 - ##### [Forrester Cole](https://twitter.com/forrestercole/status/1425837764545757186)
   We have a new paper on differentiable rendering! The core idea is to produce differentiable occlusions by using non-diff. rasterization to point-sample the geometry, then differentiable splatting to draw the points to the screen. abs: https://arxiv.org/abs/2108.04886
   
@@ -50,7 +46,6 @@
   The mesh-based version is implemented in TensorFlow Graphics and you can try it out right now in this Colab: https://colab.research.google.com/drive/1B9naJqk6_HFthOLhMSFuoE6tYYijZf2-?usp=sharing. A JAX version supporting implicit surface rasterization is coming soon.
 
 
-#### 8.17
 - ##### [Russell Dinnage](https://twitter.com/ecologician/status/1427630304223760385)
   Progress! Got basic functionality working on #rbff! Here is a face flattened by boundary first flattening in R. Still have more functionality to add, and a lot of polishing, but we are in business! #rcpp #rstats (yes, it is kind of creepy looking).
   
@@ -65,7 +60,6 @@
   - **Keenan Crane:** Nice progress on a port of Boundary First Flattening (#BFF) to the R programming language. (Original method here: http://geometry.cs.cmu.edu/bff)
 
 
-#### 8.18
 - ##### [Tomasz Malisiewicz](https://twitter.com/quantombone/status/1427816337326362625)
   Reassessing the Limitations of CNN Methods for Camera Pose Regression
   
@@ -87,8 +81,7 @@
 
   - **Jonathan Stephens:** Not everyone has the skills to model full buildings using drones, nor do they have access to emerging technology like Skydio's 3D Scan. We st @EveryPointIO are looking at hybrid capture method using automated drone capture with iPhone scans.
   
-  
-#### 8.19
+
 - ##### [Tomasz Malisiewicz](https://twitter.com/quantombone/status/1428185462611619845)
   Pixel-Perfect Structure-from-Motion with Featuremetric Refinement
   
@@ -116,8 +109,7 @@
   
   <div align=center><img src="materials/1428050867245232147.png" alt="Cover" width="75%"/></div>
   
-  
-#### 8.20
+
 - ##### [Facebook AI](https://twitter.com/facebookai/status/1428839288913936387)
   What if you could create virtual boxing athletes that could automatically develop a winning strategy? We released a #deeplearning framework at #SIGGRAPH2021 that generates control policies for two-player sports where the players are simulated. Learn more: http://ow.ly/QSQt50FVee7
   
