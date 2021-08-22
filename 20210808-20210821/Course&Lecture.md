@@ -15,7 +15,7 @@ You need to be registered to the conference in order to access the lectures. liv
 This course covers the advances in neural rendering over the last year. We will first cover the fundamentals of machine learning and computer graphics relevant for neural rendering. Next, we will present state of the art techniques for the many important neural rendering methods for applications such as novel view synthesis, semantic photo manipulation, facial and body reenactment, relighting, free-viewpoint video, and the creation of photo-realistic avatars for virtual and augmented reality telepresence. Finally, we will conclude with a discussion on the ethical implications of this technology and open research problems.
 
 
-
+***
 ### 《Geometric Deep Learing》（GDL）
 #### original twitter link（from @PetarV_93 ）：
 https://twitter.com/PetarV_93/status/1424456886015889415
@@ -23,17 +23,17 @@ https://twitter.com/PetarV_93/status/1424456886015889415
 #### webpage：
 https://geometricdeeplearning.com/lectures/
 
-### video：
+#### video：
 https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3
 
-### arxiv：
+#### arxiv：
 https://arxiv.org/abs/2104.13478
 
-### content：
+#### content：
 As part of the African Master’s in Machine Intelligence (AMMI 2021), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.
 
 
-
+***
 ### 5min introduction video 《Systematically Differentiating Parametric Discontinuities: A Short Summary》
 #### original twitter link（from @tzumaoli ）：
 https://twitter.com/tzumaoli/status/1424514881382846465
@@ -50,7 +50,7 @@ Emerging research in computer graphics, inverse problems, and machine learning r
 We propose a systematic approach to differentiating integrals with discontinuous integrands, by developing a new differentiable programming language. We introduce integration as a language primitive and account for the Dirac delta contribution from differentiating parametric discontinuities in the integrand. We formally define the language semantics and prove the correctness and closure under the differentiation, allowing the generation of gradients and higher-order derivatives. We also build a system, Teg, implementing these semantics. Our approach is widely applicable to a variety of tasks, including image stylization, fitting shader parameters, trajectory optimization, and optimizing physical designs.
 
 
-
+***
 ### SIGGRAPH2021 Course 《Geometry Processing with Intrinsic Triangulations》
 #### original twitter link（from @keenanisalive）：
 https://twitter.com/keenanisalive/status/14247302556679987314
@@ -65,7 +65,7 @@ https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
 This course provides an introduction to intrinsic triangulations, motivated by problems in robust geometry processing. Content covers essential mathematical background, state-of-the-art data structures and algorithms, and includes a hands-on coding demo. Topics include mesh parameterization, vector field processing, geodesics, PDEs on surfaces, and more.
 
 
-
+***
 ### ML YouTube Courses
 #### original twitter link（from @omarsar0）
 https://twitter.com/omarsar0/status/1424780111782494213
@@ -75,7 +75,7 @@ https://github.com/dair-ai/ML-YouTube-Courses
 We are excited to share some of the best and most recent machine learning courses available on YouTube.
 
 
-
+***
 ### Advances in Real-Time Rendering 
 #### original twitter link（from @mirror2mask）
 https://twitter.com/mirror2mask/status/1425200248947810305
@@ -87,7 +87,7 @@ Modern video games employ a variety of sophisticated algorithms to produce groun
 This year the course includes speakers from the makers of several innovative games and game engines, such as Sucker Punch Productions, Epic Games, Activision , EA | SEED and Unity Technologies. The course will cover a variety of topics relevant to the practitioners of real-time rendering in games and other real-time 3D applications. The topics will cover diverse subjects such as real-time global illumination, atmospheric rendering and dynamic time of day management, advances in physically-based rendering, novel skylight model, improvements for spatial upscaling, and several approaches for handling large geometric complexities in real-time scenarios.
 
 
-
+***
 ### awesome-list on efficient Graph Neural Networks and scalable Graph Representation Learning
 #### original twitter link（from @chaitjo）
 https://twitter.com/chaitjo/status/1425389897423069188
@@ -97,7 +97,7 @@ https://github.com/chaitjo/awesome-efficient-gnn
 This is a curated list of must-read papers on efficient Graph Neural Networks and scalable Graph Representation Learning for real-world applications. Contributions for new papers and topics are welcome!
 
 
-
+***
 ### 《Deep Learning in Computer Vision》 lectures shared by Prof. Kosta Derpanis (Ryerson University)
 #### original twitter link（from @CSProfKGD）
 https://twitter.com/CSProfKGD/status/1361722011500883972
@@ -107,7 +107,7 @@ https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html
 Computer Vision is broadly defined as the study of recovering useful properties of the world from one or more images.  In recent years, Deep Learning has emerged as a powerful tool for addressing computer vision tasks.  This course will cover a range of foundational topics at the intersection of Deep Learning and Computer Vision.
 
 
-
+***
 ### NYU Deep Learning
 #### original twitter link（from @alfcnz）
 https://twitter.com/alfcnz/status/1425877801908019204
@@ -115,7 +115,7 @@ https://twitter.com/alfcnz/status/1425877801908019204
 https://atcold.github.io/NYU-DLSP21/
 
 
-
+***
 ### Towards Visually Interactive Neural Probabilistic Models
 #### original twitter link（from @VisualDataSci）
 https://twitter.com/VisualDataSci/status/1425102919615991808
@@ -127,7 +127,7 @@ Deep learning methods have been a tremendously effective approach to problems in
 Sun. 8:00am-9:10am (Singapore)/Sat. 5:00pm-6:10pm (US West)
 
 
-
+***
 ### ICCV 2021 workshop "Learning 3D Representations for Shape and Appearance"
 #### original twitter link（from @vincesitzmann）
 https://twitter.com/vincesitzmann/status/1427377413927940096
@@ -135,11 +135,11 @@ https://twitter.com/vincesitzmann/status/1427377413927940096
 https://ivl.cs.brown.edu/3DReps/
 #### content:
 There is increasing interest in developing representations for problems such as 3D reconstruction, novel view synthesis, texture synthesis, and shape generation. The leading approaches for these problems can roughly be split into explicit, learned implicit, and semi-implicit representations of humans, objects, and scenes. While being closely related, research in these topics has been mostly distinct. The goal of this workshop is to bring together researchers in the field to discuss in depth each of these approaches, how they differ from each other and in what ways they could potentially be merged, combining the best features of each. The workshop will have invited talks and posters from leading experts in these topics, and a panel discussion to discuss future directions.
-### time & location
+#### time & location
 7am - 6pm ET, October 17, @ ICCV 2021. Virtual
 
 
-
+***
 ### The 2021 Innovations Dialogue: Deepfakes, Trust And International Security
 #### original twitter link（from @UNIDIR）
 https://twitter.com/UNIDIR/status/1427617735236857868
@@ -155,7 +155,7 @@ With the participation of stakeholders from government, academia, and industry, 
 25 August 09:00-17:30 CEST, Hybrid format: Geneva (Fairmont Grand Hotel Geneva) and online
 
 
-
+***
 ### Special trilogy of lectures by Michael Bronstein on "Geometric Deep Learning"
 #### original twitter link(from @NewtonInstitute)
 https://twitter.com/NewtonInstitute/status/1428721950596247554
@@ -165,7 +165,7 @@ live: https://t.co/FH5JsrL1kD?amp=1
 #### content:![Image](https://pbs.twimg.com/media/E9PWG_dWQAEIwZc?format=png&name=medium)
 
 
-
+***
 ### Symposium on Computer Animation 2021
 
 #### original twitter link(from @Mvandepanne)
