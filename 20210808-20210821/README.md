@@ -4,20 +4,20 @@
 - ##### [Mahmoud Afifi](https://twitter.com/mahmoudnafifi/status/1424180438101368835)
   Excited to announce that our paper on cross-camera color constancy has been accepted as an oral presentation at #ICCV2021
   
-  <img src="materials/1424180438101368835.jpg" alt="Cover" width="50%"/>
+  <div align=center><img src="materials/1424180438101368835.jpg" alt="Cover" width="50%"/></div>
   
   abs: https://arxiv.org/pdf/2011.11890.pdf code: https://github.com/mahmoudnafifi/C5
   
   Main idea: With some extra (unlabeled) test-set images, you can build a hyper-network that calibrates itself at test time to previously unseen cameras.
   
-  <img src="materials/1424180438101368835-2.jpg" alt="Cover" width="100%"/>
+  <div align=center><img src="materials/1424180438101368835-2.jpg" alt="Cover" width="75%"/></div>
 
 
 #### 8.9
 - ##### [Andrej Karpathy](https://twitter.com/karpathy/status/1424469506403934210)
   Perceiver IO is good reading/pointers for neural net architectures https://arxiv.org/abs/2107.14795 esp w.r.t. encoding/decoding schemes of various modalities to normalize them to & from Transformer-amenable latent space (a not-too-large set of vectors), where the bulk of compute happens.
   
-  ![](materials/1424469506403934210.png)
+  <div align=center><img src="materials/1424469506403934210.png" alt="Cover" width="75%"/></div>
   
   Neural nets design space today is v large and heterogeneous - a "free for all". May be that just-general-enough architecture spaces like this become the happy medium that unifies them into a common language, with a library of encoders/decoders, a fixed set of hyperparameters, etc. This would then allow for more "plug and play" strong baselines in many problems, potentially with visual drag and drop design tools, tractable automated architecture/hyper-parameter search, etc. I miss a nonlinear step for manipulating V in place every time V seems to be equal to K.
   
@@ -39,11 +39,11 @@
   
   This approach uses autodiff for all derivatives, so it's simple to implement and needs no custom CUDA code. Even with autodiff, it renders complex geometry as fast or faster than any other diff. rasterizer and easily handles millions of faces.
   
-  ![](materials/1425837764545757186.gif)
+  <div align=center><img src="materials/1425837764545757186.gif" alt="Cover" width="50%"/></div>
   
   But the real payoff is that it can handle any kind of surface you can rasterize, without needing to push derivatives through the rasterization step. So we can optimize B-Spline surfaces without worrying about differentiating through tessellation.And extract implicit surfaces using Marching Cubes without worrying about derivatives, allowing us to optimize SDF surfaces with weird topology, like Metaballs.
   
-  ![](materials/1425837764545757186-3.gif)
+  <div align=center><img src="materials/1425837764545757186-3.gif" alt="Cover" width="50%"/></div>
   
   Finally, we can render (and optimize!) everyone's favorite implicit surface representation, NeRF, by rendering an isosurface instead of ray marching. Surface-based rendering reduces the number of samples needed per ray to 1, down from 128 or more.
   
@@ -54,11 +54,11 @@
 - ##### [Russell Dinnage](https://twitter.com/ecologician/status/1427630304223760385)
   Progress! Got basic functionality working on #rbff! Here is a face flattened by boundary first flattening in R. Still have more functionality to add, and a lot of polishing, but we are in business! #rcpp #rstats (yes, it is kind of creepy looking).
   
-  <img src="materials/1427630304223760385.png" alt="Cover" width="25%"/>
+  <div align=center><img src="materials/1427630304223760385.png" alt="Cover" width="25%"/></div>
   
   This is the original face visualised using rgl. Face mesh was taken from the boundary first flattening repo (https://github.com/GeometryCollective/boundary-first-flattening)
   
-  <img src="materials/1427630304223760385-2.png" alt="Cover" width="25%"/>
+  <div align=center><img src="materials/1427630304223760385-2.png" alt="Cover" width="25%"/></div>
   
   Now you can flatten to a target boundary shape (in this case a simple square, I know, not very interesting, I will try something cooler soon). #rbff, and #rcpp #rstats package wrapping.
   
@@ -73,7 +73,7 @@
   
   A closer look into why directly regressing camera poses using ConvNets has not worked too well and a potential solution. #computervision #robotics #3D
   
-  ![](materials/1427816337326362625.jpg)
+  <div align=center><img src="materials/1427816337326362625.jpg" alt="Cover" width="50%"/></div>
   
 - ##### [Brian](https://twitter.com/bhsavery/status/1427732705806929923)
   Implemented @Peter_shirley's "Ray Tracing in One Weekend" in pure #python that can execute on the GPU (via Metal, Vulkan, CUDA) using a package called "Taichi". github: https://github.com/bsavery/ray-tracing-one-weekend-taichi. Was surprisingly easy and runs fast, these higher level languages for GPU could be the future!
@@ -96,7 +96,7 @@
   
   Cool new #computervision paper from ETHZ showing how to improve over classical detect-once-and-never-refine local features. Also now a part of the popular colmap #SfM library. #iccv2021
   
-  ![](materials/1428185462611619845.jpg)
+  <div align=center><img src="materials/1428185462611619845.jpg" alt="Cover" width="75%"/></div>
   
 - ##### [Alan Wolfe](https://twitter.com/Atrix256/status/1428027321785536522)
   FLIP is an algorithm from NVIDIA that quantifies perceptual image quality. There's a real easy to compile and use C++ implementation on github. I just downloaded the source, compiled in VS and ran it! It has a cuda project too which runs a lot faster. code: https://github.com/NVlabs/flip
@@ -114,7 +114,7 @@
 - ##### [Michael Black](https://twitter.com/Michael_J_Black/status/1428050867245232147)
   Most mocap datasets don't include 3D objects, which makes learning about human-object interaction hard. This new dataset uses our 54-camera Vicon system and our MoSh technology to capture realistic bodies interacting with 3D scene objects. Nice work @M_E_Hassan and capture team! project page: https://samp.is.tue.mpg.de/
   
-  ![](materials/1428050867245232147.png)
+  <div align=center><img src="materials/1428050867245232147.png" alt="Cover" width="75%"/></div>
   
   
 #### 8.20
@@ -127,11 +127,11 @@
   
   Do Vision Transformers See Like Convolutional Neural Networks? New paper https://arxiv.org/abs/2108.08810. The successes of Transformers in computer vision prompts a fundamental question: how are they solving these tasks? Do Transformers act like CNNs, or learn very different features?  We explore this question in our paper, finding key differences between internal representations of the architectures, crucial roles played by attention and residual connections, and ramifications for localization and transfer learning.
   
-  ![](materials/1428740724074291208.jpg)
+  <div align=center><img src="materials/1428740724074291208.jpg" alt="Cover" width="75%"/></div>
   
   Using representational similarity measures, we investigate the internal structure of the two architectures, finding striking differences, with ViT to having a much more uniform representation across all layers.
   
-  ![](materials/1428740724074291208-2.jpg)
+  <div align=center><img src="materials/1428740724074291208-2.jpg" alt="Cover" width="75%"/></div>
   
   An analysis of self-attention reveals some reasons for this difference: very early ViT layers learn to incorporate local and *global* spatial information, unlike CNN early layers with their smaller receptive field size. But attending locally is also very important! It is automatically encoded in CNNs, but larger ViTs only learn to do this with enough data (which is needed for their strong performance also.) Using local and global info allows ViT earlier layers to learn better representations, which are strongly propagated through residual connections. Surprisingly ViT has stronger residual connections than ResNet! These help explain the uniform structure of ViT representations. We study effects of classification and pretraining dataset size, finding data & models should scale together -- larger pretraining data is very important for bigger ViT models and higher layer representations. Lower ViT layers also have higher classification success than CNNs. Motivated by future applications to object detection, we study spatial localization across ViT and CNNs, finding that the amount of spatial information preserved in higher layers is sensitive to using a CLS token (well preserved) vs global average pooling (less preserved). We also perform a preliminary representational analysis on the recently proposed MLP-mixer, finding its structure to be more similar to ViT. For future exploration!
   
