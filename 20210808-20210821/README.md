@@ -8,6 +8,7 @@
   abs: https://arxiv.org/pdf/2011.11890.pdf code: https://github.com/mahmoudnafifi/C5
   
   Main idea: With some extra (unlabeled) test-set images, you can build a hyper-network that calibrates itself at test time to previously unseen cameras.
+  
   ![](materials/1424180438101368835-2.jpg)
   
 ### 意见性分享
