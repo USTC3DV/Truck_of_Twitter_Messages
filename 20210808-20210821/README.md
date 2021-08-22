@@ -1,3 +1,15 @@
+### 成果推荐及讨论
+#### 8.8
+
+- ##### [Mahmoud Afifi](https://twitter.com/mahmoudnafifi/status/1424180438101368835)
+  Excited to announce that our paper on cross-camera color constancy has been accepted as an oral presentation at #ICCV2021
+  ![](materials/1424180438101368835.jpg)
+  
+  abs: https://arxiv.org/pdf/2011.11890.pdf code: https://github.com/mahmoudnafifi/C5
+  
+  Main idea: With some extra (unlabeled) test-set images, you can build a hyper-network that calibrates itself at test time to previously unseen cameras.
+  ![](materials/1424180438101368835-2.jpg)
+  
 ### 意见性分享
 #### 8.11
 
