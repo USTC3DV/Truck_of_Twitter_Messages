@@ -218,7 +218,7 @@
 
     Use your favorite tools to find what's hot/trendy, e.g.,  [http://arxiv-sanity.com](https://t.co/c9MzPyciO7?amp=1)  [https://paperswithcode.com](https://t.co/RkkPp3I3EQ?amp=1) [https://twitter.com](https://twitter.com/)
 
-​       reference:https://twitter.com/jbhuang0604/status/1426039195542360070
+  reference:https://twitter.com/jbhuang0604/status/1426039195542360070
 
 
 
