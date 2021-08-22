@@ -284,6 +284,19 @@ https://arxiv.org/abs/2104.13478
 ##### content：
 As part of the African Master’s in Machine Intelligence (AMMI 2021), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.![Image](https://pbs.twimg.com/media/E8SvKLhXsAY3RtG?format=jpg&name=900x900)
 
+***
+#### SIGGRAPH2021 Course 《Geometry Processing with Intrinsic Triangulations》
+##### original twitter link（from @keenanisalive）：
+https://twitter.com/keenanisalive/status/14247302556679987314
+
+##### webpage：
+https://s2021.siggraph.org/presentation/?id=gensub_306&sess=sess157
+
+##### notes（pdf）：
+https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
+
+##### content：
+This course provides an introduction to intrinsic triangulations, motivated by problems in robust geometry processing. Content covers essential mathematical background, state-of-the-art data structures and algorithms, and includes a hands-on coding demo. Topics include mesh parameterization, vector field processing, geodesics, PDEs on surfaces, and more.![img](https://s2021.siggraph.org/wp-content/linklings_snippets/representative_images/if4ATyZHHBjnmaJv.jpg)
 
 ***
 #### 5min introduction video 《Systematically Differentiating Parametric Discontinuities: A Short Summary》
@@ -300,22 +313,6 @@ https://s2021.siggraph.org/session/?sess=sess121
 Emerging research in computer graphics, inverse problems, and machine learning requires us to differentiate and optimize parametric discontinuities. These discontinuities appear in object boundaries, occlusion, contact, and sudden change over time. In many domains, such as rendering and physics simulation, we differentiate the parameters of models that are expressed as integrals over discontinuous functions. Ignoring the discontinuities during differentiation often has a significant impact on the optimization process. Previous approaches either apply specialized hand-derived solutions, smooth out the discontinuities, or rely on incorrect automatic differentiation.  
 
 We propose a systematic approach to differentiating integrals with discontinuous integrands, by developing a new differentiable programming language. We introduce integration as a language primitive and account for the Dirac delta contribution from differentiating parametric discontinuities in the integrand. We formally define the language semantics and prove the correctness and closure under the differentiation, allowing the generation of gradients and higher-order derivatives. We also build a system, Teg, implementing these semantics. Our approach is widely applicable to a variety of tasks, including image stylization, fitting shader parameters, trajectory optimization, and optimizing physical designs.
-
-
-***
-#### SIGGRAPH2021 Course 《Geometry Processing with Intrinsic Triangulations》
-##### original twitter link（from @keenanisalive）：
-https://twitter.com/keenanisalive/status/14247302556679987314
-
-##### webpage：
-https://s2021.siggraph.org/presentation/?id=gensub_306&sess=sess157
-
-##### notes（pdf）：
-https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
-
-##### content：
-This course provides an introduction to intrinsic triangulations, motivated by problems in robust geometry processing. Content covers essential mathematical background, state-of-the-art data structures and algorithms, and includes a hands-on coding demo. Topics include mesh parameterization, vector field processing, geodesics, PDEs on surfaces, and more.![img](https://s2021.siggraph.org/wp-content/linklings_snippets/representative_images/if4ATyZHHBjnmaJv.jpg)
-
 
 ***
 #### Advances in Real-Time Rendering 
