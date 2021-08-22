@@ -4,13 +4,13 @@
 - ##### [Mahmoud Afifi](https://twitter.com/mahmoudnafifi/status/1424180438101368835)
   Excited to announce that our paper on cross-camera color constancy has been accepted as an oral presentation at #ICCV2021
   
-  ![](materials/1424180438101368835.jpg)
+  <img src="materials/1424180438101368835.jpg" alt="Cover" width="50%"/>
   
   abs: https://arxiv.org/pdf/2011.11890.pdf code: https://github.com/mahmoudnafifi/C5
   
   Main idea: With some extra (unlabeled) test-set images, you can build a hyper-network that calibrates itself at test time to previously unseen cameras.
   
-  ![](materials/1424180438101368835-2.jpg)
+  <img src="materials/1424180438101368835-2.jpg" alt="Cover" width="100%"/>
 
 
 #### 8.9
@@ -54,11 +54,11 @@
 - ##### [Russell Dinnage](https://twitter.com/ecologician/status/1427630304223760385)
   Progress! Got basic functionality working on #rbff! Here is a face flattened by boundary first flattening in R. Still have more functionality to add, and a lot of polishing, but we are in business! #rcpp #rstats (yes, it is kind of creepy looking).
   
-  ![](materials/1427630304223760385.png)
+  <img src="materials/1427630304223760385.png" alt="Cover" width="25%"/>
   
   This is the original face visualised using rgl. Face mesh was taken from the boundary first flattening repo (https://github.com/GeometryCollective/boundary-first-flattening)
   
-  ![](materials/1427630304223760385-2.png)
+  <img src="materials/1427630304223760385-2.png" alt="Cover" width="25%"/>
   
   Now you can flatten to a target boundary shape (in this case a simple square, I know, not very interesting, I will try something cooler soon). #rbff, and #rcpp #rstats package wrapping.
   
@@ -120,8 +120,6 @@
 #### 8.20
 - ##### [Facebook AI](https://twitter.com/facebookai/status/1428839288913936387)
   What if you could create virtual boxing athletes that could automatically develop a winning strategy? We released a #deeplearning framework at #SIGGRAPH2021 that generates control policies for two-player sports where the players are simulated. Learn more: http://ow.ly/QSQt50FVee7
-  
-  <iframe height=720 width=720 src="materials/1428839288913936387.mp4">
   
   - **Mark Montgomery:** Are they aware of the jack-in-the-box ready to spring from underneath, or sniper in the rafters? It's the unknown unknowns in the real world that really challenges AI systems. The controlled environments are more relevant to FB than most others.
 
