@@ -12,7 +12,7 @@ https://www.neuralrender.com/
 You need to be registered to the conference in order to access the lectures. live Q&A session will be held on August 9th, 2021, 9:00 PT
 
 #### content
-This course covers the advances in neural rendering over the last year. We will first cover the fundamentals of machine learning and computer graphics relevant for neural rendering. Next, we will present state of the art techniques for the many important neural rendering methods for applications such as novel view synthesis, semantic photo manipulation, facial and body reenactment, relighting, free-viewpoint video, and the creation of photo-realistic avatars for virtual and augmented reality telepresence. Finally, we will conclude with a discussion on the ethical implications of this technology and open research problems.
+This course covers the advances in neural rendering over the last year. We will first cover the fundamentals of machine learning and computer graphics relevant for neural rendering. Next, we will present state of the art techniques for the many important neural rendering methods for applications such as novel view synthesis, semantic photo manipulation, facial and body reenactment, relighting, free-viewpoint video, and the creation of photo-realistic avatars for virtual and augmented reality telepresence. Finally, we will conclude with a discussion on the ethical implications of this technology and open research problems.![Image](https://pbs.twimg.com/media/E8R_BFBXMAMwJYl?format=jpg&name=900x900)
 
 
 ***
@@ -30,7 +30,7 @@ https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3
 https://arxiv.org/abs/2104.13478
 
 #### content：
-As part of the African Master’s in Machine Intelligence (AMMI 2021), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.
+As part of the African Master’s in Machine Intelligence (AMMI 2021), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.![Image](https://pbs.twimg.com/media/E8SvKLhXsAY3RtG?format=jpg&name=900x900)
 
 
 ***
@@ -62,7 +62,7 @@ https://s2021.siggraph.org/presentation/?id=gensub_306&sess=sess157
 https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
 
 #### content：
-This course provides an introduction to intrinsic triangulations, motivated by problems in robust geometry processing. Content covers essential mathematical background, state-of-the-art data structures and algorithms, and includes a hands-on coding demo. Topics include mesh parameterization, vector field processing, geodesics, PDEs on surfaces, and more.
+This course provides an introduction to intrinsic triangulations, motivated by problems in robust geometry processing. Content covers essential mathematical background, state-of-the-art data structures and algorithms, and includes a hands-on coding demo. Topics include mesh parameterization, vector field processing, geodesics, PDEs on surfaces, and more.![img](https://s2021.siggraph.org/wp-content/linklings_snippets/representative_images/if4ATyZHHBjnmaJv.jpg)
 
 
 ***
@@ -72,7 +72,7 @@ https://twitter.com/omarsar0/status/1424780111782494213
 #### git repository：
 https://github.com/dair-ai/ML-YouTube-Courses
 #### content：
-We are excited to share some of the best and most recent machine learning courses available on YouTube.
+We are excited to share some of the best and most recent machine learning courses available on YouTube.![img](https://pbs.twimg.com/card_img/1428687500269486080/G51xBbwL?format=jpg&name=900x900)
 
 
 ***
@@ -94,7 +94,7 @@ https://twitter.com/chaitjo/status/1425389897423069188
 #### git repository：
 https://github.com/chaitjo/awesome-efficient-gnn
 #### content:
-This is a curated list of must-read papers on efficient Graph Neural Networks and scalable Graph Representation Learning for real-world applications. Contributions for new papers and topics are welcome!
+This is a curated list of must-read papers on efficient Graph Neural Networks and scalable Graph Representation Learning for real-world applications. Contributions for new papers and topics are welcome!![img](https://pbs.twimg.com/card_img/1427925692390514691/qTd4cxQJ?format=jpg&name=900x900)
 
 
 ***
@@ -152,7 +152,7 @@ The world today is suffering from a “trust deficit disorder,” as noted by UN
 
 With the participation of stakeholders from government, academia, and industry, the Dialogue will illuminate how algorithmically generated synthetic visual and textual media is created and disseminated, and examine how it could erode trust and present novel risks for international security and stability. The discussions will also explore the key governance issues concerning deepfakes and their attendant technological countermeasures, and consider whether new multilateral and multi-stakeholder tools are needed to fill the governance gaps that deepfakes have engendered. 
 #### time and location:
-25 August 09:00-17:30 CEST, Hybrid format: Geneva (Fairmont Grand Hotel Geneva) and online
+25 August 09:00-17:30 CEST, Hybrid format: Geneva (Fairmont Grand Hotel Geneva) and online![Image](https://pbs.twimg.com/media/E8_ZZA1X0AAZ3SN?format=jpg&name=900x900)
 
 
 ***
@@ -162,6 +162,7 @@ https://twitter.com/NewtonInstitute/status/1428721950596247554
 #### time and location:
 23/24/25 August 10:00-11:00
 live: https://t.co/FH5JsrL1kD?amp=1
+
 #### content:![Image](https://pbs.twimg.com/media/E9PWG_dWQAEIwZc?format=png&name=medium)
 
 
