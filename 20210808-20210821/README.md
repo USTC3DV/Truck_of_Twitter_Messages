@@ -99,7 +99,7 @@
 
 - #####   Srinath Sridhar:
 
-  ​      **For someone so successful in the high-tech business, **[@elonmusk](https://twitter.com/elonmusk) **is surprisingly naive about AI/robots. We are decades away from building robots with the capabilities he claims in his prototype (human-level hands by 2022? good luck with that).**
+  ​      **For someone so successful in the high-tech business, [@elonmusk](https://twitter.com/elonmusk) is surprisingly naive about AI/robots. We are decades away from building robots with the capabilities he claims in his prototype (human-level hands by 2022? good luck with that).**
 
   ​    **Michael Black**: People typically underestimate the importance of haptics. Without touch, you don’t have a hand. We still don’t have the sensors to recreate human-level touch. Then for real human-level hand control, you need vision. We’ve seen the overly optimistic claims about that before.
 
