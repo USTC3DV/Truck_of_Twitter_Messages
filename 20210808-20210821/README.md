@@ -264,7 +264,7 @@ live: https://t.co/FH5JsrL1kD?amp=1
   
   - **Prakruti ka Sparsh:** Would Vision Transformers integrated in GANs for classification (Discriminator) purposes instead of usual CNN make it perform better?
 
-  评述：视觉Transformer和CNN的比较是近期的研究热点之一，作者及相关研究者在该问题上进行了充分的讨论。
+  **评述：** 视觉Transformer和CNN的比较是近期的研究热点之一，作者及相关研究者在该问题上进行了充分的讨论。
 
 - ##### [Chaitanya K. Joshi](https://twitter.com/chaitjo/status/1425389897423069188)
   **Hi GNN friends, I'm creating an awesome-list on efficient Graph Neural Networks and scalable Graph Representation Learning.** I'm excited about real-world applications of GNNs, and am looking to learn more about deploying them! Please help improve: https://github.com/chaitjo/awesome-efficient-gnn
@@ -273,7 +273,7 @@ live: https://t.co/FH5JsrL1kD?amp=1
   
   - **Chaitanya K. Joshi:** I am thinking of creating a new list on the intersection of GNNs and combinatorial optimization, which is another area I've been looking at recently. (But I do wonder if that line of research is already being deployed in real-world systems?)
   
-  评述：Twitter作者为GNN（图神经网络）的研究提供了一个交流推广平台，最新的相关研究将被这个仓库收纳。
+  **评述：** Twitter作者为GNN（图神经网络）的研究提供了一个交流推广平台，最新的相关研究将被这个仓库收纳。
   
 - ##### [Forrester Cole](https://twitter.com/forrestercole/status/1425837764545757186)
   **We have a new paper on differentiable rendering! abs: https://arxiv.org/abs/2108.04886**
@@ -307,7 +307,7 @@ live: https://t.co/FH5JsrL1kD?amp=1
   - **LCTR:** Just wondered if a variation of that might be used to perhaps look for edits in photos / video footage? E.g. Lack of noise, non-matching noise, etc.
     - **Alan Wolfe:** Yeah, I'm betting it definitely could.  I was sort of thinking this could be good for automated testing in games, to make sure things reasonably match some "gold master" reference images?
 
-  评述：FLIP是NVIDIA提出的用于量化图片质量的算法，受到广泛讨论与关注。
+  **评述：** FLIP是NVIDIA提出的用于量化图片质量的算法，受到广泛讨论与关注。
   
 - ##### [EveryPoint](https://twitter.com/EveryPointIO/status/1427693517686513666)
   **We are exploring the fusion of drone and iPhone capture with EveryPoint.** The drone captures the general landscape and the rooftop structures. The EveryPoint app captures the building facades and hard to see areas. Next step, autonomous captures. #architecture #drones #3DModeling
@@ -316,7 +316,7 @@ live: https://t.co/FH5JsrL1kD?amp=1
 
   - **Jonathan Stephens:** Not everyone has the skills to model full buildings using drones, nor do they have access to emerging technology like Skydio's 3D Scan. We st @EveryPointIO are looking at hybrid capture method using automated drone capture with iPhone scans.
   
-  评述：EveryPoint在建筑场景的捕捉与重建的一些进展与展望。
+  **评述：** EveryPoint在建筑场景的捕捉与重建的一些进展与展望。
   
 - ##### [Tomasz Malisiewicz](https://twitter.com/quantombone/status/1428185462611619845)
   **Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**
@@ -390,4 +390,4 @@ live: https://t.co/FH5JsrL1kD?amp=1
   
   - **erithacus:** I'm planning on having a go at it in swift at some point. Will be a big challenge for me (especially as I’ll have to learn a bit of C++ to interpret the course), but I think it will be fun.
 
-  评述：基于Taichi编程语言的光追（Ray Tracing）项目。
+  **评述：** 基于Taichi编程语言的光追（Ray Tracing）项目。
