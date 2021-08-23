@@ -119,7 +119,7 @@
 
 
 
-- **三位视觉x数字孪生**
+- **三维视觉x数字孪生**
 
     #####     Tomasz Malisiewicz:
 
@@ -167,6 +167,8 @@ You need to be registered to the conference in order to access the lectures. liv
 ##### content
 This course covers the advances in neural rendering over the last year. We will first cover the fundamentals of machine learning and computer graphics relevant for neural rendering. Next, we will present state of the art techniques for the many important neural rendering methods for applications such as novel view synthesis, semantic photo manipulation, facial and body reenactment, relighting, free-viewpoint video, and the creation of photo-realistic avatars for virtual and augmented reality telepresence. Finally, we will conclude with a discussion on the ethical implications of this technology and open research problems.![Image](https://pbs.twimg.com/media/E8R_BFBXMAMwJYl?format=jpg&name=900x900)
 
+**包含了和神经渲染有关的机器学习和图形学基础知识，同时也介绍了神经渲染技术的一些应用。**
+
 
 ***
 #### 《Geometric Deep Learing》（GDL）
@@ -185,6 +187,8 @@ https://arxiv.org/abs/2104.13478
 ##### content：
 As part of the African Master’s in Machine Intelligence (AMMI 2021), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.![Image](https://pbs.twimg.com/media/E8SvKLhXsAY3RtG?format=jpg&name=900x900)
 
+**介绍了Geometric Deep Learing的相关知识，提供了视频和slides。**
+
 ***
 #### SIGGRAPH2021 Course 《Geometry Processing with Intrinsic Triangulations》
 ##### original twitter link（from @keenanisalive）：
@@ -198,6 +202,8 @@ https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
 
 ##### content：
 This course provides an introduction to intrinsic triangulations, motivated by problems in robust geometry processing. Content covers essential mathematical background, state-of-the-art data structures and algorithms, and includes a hands-on coding demo. Topics include mesh parameterization, vector field processing, geodesics, PDEs on surfaces, and more.![img](https://s2021.siggraph.org/wp-content/linklings_snippets/representative_images/if4ATyZHHBjnmaJv.jpg)
+
+**介绍了intrinsic triangulations方向所需的数学背景知识、前沿的算法同时提供了demo。**
 
 ***
 #### 5min introduction video 《Systematically Differentiating Parametric Discontinuities: A Short Summary》
@@ -215,6 +221,8 @@ Emerging research in computer graphics, inverse problems, and machine learning r
 
 We propose a systematic approach to differentiating integrals with discontinuous integrands, by developing a new differentiable programming language. We introduce integration as a language primitive and account for the Dirac delta contribution from differentiating parametric discontinuities in the integrand. We formally define the language semantics and prove the correctness and closure under the differentiation, allowing the generation of gradients and higher-order derivatives. We also build a system, Teg, implementing these semantics. Our approach is widely applicable to a variety of tasks, including image stylization, fitting shader parameters, trajectory optimization, and optimizing physical designs.
 
+**可微编程方向的5分钟的介绍视频**
+
 ***
 #### Advances in Real-Time Rendering 
 ##### original twitter link（from @mirror2mask）
@@ -226,6 +234,8 @@ Modern video games employ a variety of sophisticated algorithms to produce groun
 
 This year the course includes speakers from the makers of several innovative games and game engines, such as Sucker Punch Productions, Epic Games, Activision , EA | SEED and Unity Technologies. The course will cover a variety of topics relevant to the practitioners of real-time rendering in games and other real-time 3D applications. The topics will cover diverse subjects such as real-time global illumination, atmospheric rendering and dynamic time of day management, advances in physically-based rendering, novel skylight model, improvements for spatial upscaling, and several approaches for handling large geometric complexities in real-time scenarios.
 
+**介绍了游戏和其他实时应用中的渲题问题，以及这一领域前沿技术与进展。**
+
 ***
 #### Special trilogy of lectures by Michael Bronstein on "Geometric Deep Learning"
 ##### original twitter link(from @NewtonInstitute)
@@ -236,7 +246,7 @@ live: https://t.co/FH5JsrL1kD?amp=1
 
 ##### content:![Image](https://pbs.twimg.com/media/E9PWG_dWQAEIwZc?format=png&name=medium)
 
-
+**介绍了grids、graphs和manifolds形式下geometric deep learning的数学原理。并且展示这些方法在视觉、社会科学、生物、医药设计领域的应用。**
 
 ### 成果推荐及讨论
 
