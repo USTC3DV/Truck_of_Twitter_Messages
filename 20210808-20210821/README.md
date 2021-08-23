@@ -199,6 +199,7 @@ live: https://t.co/FH5JsrL1kD?amp=1
 
 ### 成果推荐及讨论
 
+
 - ##### [Mahmoud Afifi](https://twitter.com/mahmoudnafifi/status/1424180438101368835)
   **Excited to announce that our paper on cross-camera color constancy has been accepted as an oral presentation at #ICCV2021**
   
@@ -211,7 +212,7 @@ live: https://t.co/FH5JsrL1kD?amp=1
   abs: https://arxiv.org/pdf/2011.11890.pdf code: https://github.com/mahmoudnafifi/C5
 
 - ##### [Andrej Karpathy](https://twitter.com/karpathy/status/1424469506403934210)
-  **Perceiver IO is good reading/pointers for neural net architectures https://arxiv.org/abs/2107.14795 esp w.r.t. encoding/decoding schemes of various modalities to normalize them to & from Transformer-amenable latent space (a not-too-large set of vectors), where the bulk of compute happens.**
+  **Perceiver IO is good reading/pointers for neural net architectures** https://arxiv.org/abs/2107.14795 esp w.r.t. encoding/decoding schemes of various modalities to normalize them to & from Transformer-amenable latent space (a not-too-large set of vectors), where the bulk of compute happens.
   
   <div align=center><img src="materials/1424469506403934210.png" alt="Cover" width="75%"/></div>
   
@@ -219,9 +220,8 @@ live: https://t.co/FH5JsrL1kD?amp=1
   
   - **Drezil @kif.rocks:** And it feels to me like that is is indeed general, but not small enough in many cases (meaning there is a way smaller architecture with the same performance).
 
-
 - ##### [Chaitanya K. Joshi](https://twitter.com/chaitjo/status/1425389897423069188)
-  **Hi GNN friends, I'm creating an awesome-list on efficient Graph Neural Networks and scalable Graph Representation Learning. I'm excited about real-world applications of GNNs, and am looking to learn more about deploying them! Please help improve: https://github.com/chaitjo/awesome-efficient-gnn**
+  **Hi GNN friends, I'm creating an awesome-list on efficient Graph Neural Networks and scalable Graph Representation Learning.** I'm excited about real-world applications of GNNs, and am looking to learn more about deploying them! Please help improve: https://github.com/chaitjo/awesome-efficient-gnn
   
   - **Chaitanya K. Joshi:** I do aim to keep it as 'on topic' as possible -- I want to compile must-read papers on **fundamental methodologies** for developing **efficient** and **scalable** GNN models.
   
@@ -246,7 +246,6 @@ live: https://t.co/FH5JsrL1kD?amp=1
   
   The mesh-based version is implemented in TensorFlow Graphics and you can try it out right now in this Colab: https://colab.research.google.com/drive/1B9naJqk6_HFthOLhMSFuoE6tYYijZf2-?usp=sharing. A JAX version supporting implicit surface rasterization is coming soon.
 
-
 - ##### [Russell Dinnage](https://twitter.com/ecologician/status/1427630304223760385)
   **Progress! Got basic functionality working on #rbff! Here is a face flattened by boundary first flattening in R.**
   
@@ -262,7 +261,6 @@ live: https://t.co/FH5JsrL1kD?amp=1
   
   - **Keenan Crane:** Nice progress on a port of Boundary First Flattening (#BFF) to the R programming language. (Original method here: http://geometry.cs.cmu.edu/bff)
 
-
 - ##### [Tomasz Malisiewicz](https://twitter.com/quantombone/status/1427816337326362625)
   **Reassessing the Limitations of CNN Methods for Camera Pose Regression**
   
@@ -272,14 +270,14 @@ live: https://t.co/FH5JsrL1kD?amp=1
   
   abs: https://arxiv.org/abs/2108.07260
   
-  
 - ##### [Brian](https://twitter.com/bhsavery/status/1427732705806929923)
   **Implemented @Peter_shirley's "Ray Tracing in One Weekend" in pure #python that can execute on the GPU (via Metal, Vulkan, CUDA) using a package called "Taichi".** Was surprisingly easy and runs fast, these higher level languages for GPU could be the future!
   
   github: https://github.com/bsavery/ray-tracing-one-weekend-taichi.
   
   - **erithacus:** I'm planning on having a go at it in swift at some point. Will be a big challenge for me (especially as I’ll have to learn a bit of C++ to interpret the course), but I think it will be fun.
-  
+
+  评述：基于Taichi编程语言的光追（Ray Tracing）项目。
   
 - ##### [EveryPoint](https://twitter.com/EveryPointIO/status/1427693517686513666)
   **We are exploring the fusion of drone and iPhone capture with EveryPoint.** The drone captures the general landscape and the rooftop structures. The EveryPoint app captures the building facades and hard to see areas. Next step, autonomous captures. #architecture #drones #3DModeling
@@ -314,11 +312,12 @@ live: https://t.co/FH5JsrL1kD?amp=1
   - **LCTR:** Just wondered if a variation of that might be used to perhaps look for edits in photos / video footage? E.g. Lack of noise, non-matching noise, etc.
     - **Alan Wolfe:** Yeah, I'm betting it definitely could.  I was sort of thinking this could be good for automated testing in games, to make sure things reasonably match some "gold master" reference images?
 
+  评述：FLIP是NVIDIA提出的用于量化图片质量的算法，受到广泛讨论与关注。
+  
 - ##### [Michael Black](https://twitter.com/Michael_J_Black/status/1428050867245232147)
   **Most mocap datasets don't include 3D objects, which makes learning about human-object interaction hard. This new dataset uses our 54-camera Vicon system and our MoSh technology to capture realistic bodies interacting with 3D scene objects.** Nice work @M_E_Hassan and capture team! project page: https://samp.is.tue.mpg.de/
   
   <div align=center><img src="materials/1428050867245232147.png" alt="Cover" width="75%"/></div>
-  
 
 - ##### [Facebook AI](https://twitter.com/facebookai/status/1428839288913936387)
   **What if you could create virtual boxing athletes that could automatically develop a winning strategy?**
@@ -349,3 +348,5 @@ live: https://t.co/FH5JsrL1kD?amp=1
   - **Prakruti ka Sparsh:** Also, considering it is based on transformers model, will it perform better on data with higher intra-class variance?
   
   - **Prakruti ka Sparsh:** Would Vision Transformers integrated in GANs for classification (Discriminator) purposes instead of usual CNN make it perform better?
+
+  评述：视觉Transformer和CNN的比较是近期的研究热点之一，作者及相关研究者在该问题上进行了充分的讨论。
