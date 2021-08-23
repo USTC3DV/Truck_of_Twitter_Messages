@@ -108,6 +108,95 @@
   reference:https://twitter.com/drsrinathsridha/status/1428775742943412233
 
 
+
+***
+### 课程和报告分享
+
+#### SIGGRAPH 2021 Course《Advances in Neural Rendering》
+
+##### original twitter link（from @JustusThies ）：
+https://twitter.com/JustusThies/status/1424403610461421568
+
+##### webpage：
+https://www.neuralrender.com/
+
+##### location & time：
+You need to be registered to the conference in order to access the lectures. live Q&A session will be held on August 9th, 2021, 9:00 PT
+
+##### content
+This course covers the advances in neural rendering over the last year. We will first cover the fundamentals of machine learning and computer graphics relevant for neural rendering. Next, we will present state of the art techniques for the many important neural rendering methods for applications such as novel view synthesis, semantic photo manipulation, facial and body reenactment, relighting, free-viewpoint video, and the creation of photo-realistic avatars for virtual and augmented reality telepresence. Finally, we will conclude with a discussion on the ethical implications of this technology and open research problems.![Image](https://pbs.twimg.com/media/E8R_BFBXMAMwJYl?format=jpg&name=900x900)
+
+
+***
+#### 《Geometric Deep Learing》（GDL）
+##### original twitter link（from @PetarV_93 ）：
+https://twitter.com/PetarV_93/status/1424456886015889415
+
+##### webpage：
+https://geometricdeeplearning.com/lectures/
+
+##### video：
+https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3
+
+##### arxiv：
+https://arxiv.org/abs/2104.13478
+
+##### content：
+As part of the African Master’s in Machine Intelligence (AMMI 2021), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.![Image](https://pbs.twimg.com/media/E8SvKLhXsAY3RtG?format=jpg&name=900x900)
+
+***
+#### SIGGRAPH2021 Course 《Geometry Processing with Intrinsic Triangulations》
+##### original twitter link（from @keenanisalive）：
+https://twitter.com/keenanisalive/status/14247302556679987314
+
+##### webpage：
+https://s2021.siggraph.org/presentation/?id=gensub_306&sess=sess157
+
+##### notes（pdf）：
+https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
+
+##### content：
+This course provides an introduction to intrinsic triangulations, motivated by problems in robust geometry processing. Content covers essential mathematical background, state-of-the-art data structures and algorithms, and includes a hands-on coding demo. Topics include mesh parameterization, vector field processing, geodesics, PDEs on surfaces, and more.![img](https://s2021.siggraph.org/wp-content/linklings_snippets/representative_images/if4ATyZHHBjnmaJv.jpg)
+
+***
+#### 5min introduction video 《Systematically Differentiating Parametric Discontinuities: A Short Summary》
+##### original twitter link（from @tzumaoli ）：
+https://twitter.com/tzumaoli/status/1424514881382846465
+
+##### video：
+https://www.youtube.com/watch?v=K7lcFw8Vm3c
+
+##### SIGGRAPH Q&A session：
+https://s2021.siggraph.org/session/?sess=sess121
+
+##### content:
+Emerging research in computer graphics, inverse problems, and machine learning requires us to differentiate and optimize parametric discontinuities. These discontinuities appear in object boundaries, occlusion, contact, and sudden change over time. In many domains, such as rendering and physics simulation, we differentiate the parameters of models that are expressed as integrals over discontinuous functions. Ignoring the discontinuities during differentiation often has a significant impact on the optimization process. Previous approaches either apply specialized hand-derived solutions, smooth out the discontinuities, or rely on incorrect automatic differentiation.  
+
+We propose a systematic approach to differentiating integrals with discontinuous integrands, by developing a new differentiable programming language. We introduce integration as a language primitive and account for the Dirac delta contribution from differentiating parametric discontinuities in the integrand. We formally define the language semantics and prove the correctness and closure under the differentiation, allowing the generation of gradients and higher-order derivatives. We also build a system, Teg, implementing these semantics. Our approach is widely applicable to a variety of tasks, including image stylization, fitting shader parameters, trajectory optimization, and optimizing physical designs.
+
+***
+#### Advances in Real-Time Rendering 
+##### original twitter link（from @mirror2mask）
+https://twitter.com/mirror2mask/status/1425200248947810305
+##### webpage：
+http://advances.realtimerendering.com/s2021/index.html
+##### content：
+Modern video games employ a variety of sophisticated algorithms to produce groundbreaking 3D rendering pushing the visual boundaries and interactive experience of rich environments. This course brings state-of-the-art and production-proven rendering techniques for fast, interactive rendering of complex and engaging virtual worlds of video games.
+
+This year the course includes speakers from the makers of several innovative games and game engines, such as Sucker Punch Productions, Epic Games, Activision , EA | SEED and Unity Technologies. The course will cover a variety of topics relevant to the practitioners of real-time rendering in games and other real-time 3D applications. The topics will cover diverse subjects such as real-time global illumination, atmospheric rendering and dynamic time of day management, advances in physically-based rendering, novel skylight model, improvements for spatial upscaling, and several approaches for handling large geometric complexities in real-time scenarios.
+
+***
+#### Special trilogy of lectures by Michael Bronstein on "Geometric Deep Learning"
+##### original twitter link(from @NewtonInstitute)
+https://twitter.com/NewtonInstitute/status/1428721950596247554
+##### time and location:
+23/24/25 August 10:00-11:00
+live: https://t.co/FH5JsrL1kD?amp=1
+
+##### content:![Image](https://pbs.twimg.com/media/E9PWG_dWQAEIwZc?format=png&name=medium)
+
+
+
 ### 成果推荐及讨论
 
 - ##### [Mahmoud Afifi](https://twitter.com/mahmoudnafifi/status/1424180438101368835)
@@ -246,91 +335,3 @@
   - **Prakruti ka Sparsh:** Also, considering it is based on transformers model, will it perform better on data with higher intra-class variance?
   
   - **Prakruti ka Sparsh:** Would Vision Transformers integrated in GANs for classification (Discriminator) purposes instead of usual CNN make it perform better?
-
-
-***
-### 课程和报告分享
-
-#### SIGGRAPH 2021 Course《Advances in Neural Rendering》
-
-##### original twitter link（from @JustusThies ）：
-https://twitter.com/JustusThies/status/1424403610461421568
-
-##### webpage：
-https://www.neuralrender.com/
-
-##### location & time：
-You need to be registered to the conference in order to access the lectures. live Q&A session will be held on August 9th, 2021, 9:00 PT
-
-##### content
-This course covers the advances in neural rendering over the last year. We will first cover the fundamentals of machine learning and computer graphics relevant for neural rendering. Next, we will present state of the art techniques for the many important neural rendering methods for applications such as novel view synthesis, semantic photo manipulation, facial and body reenactment, relighting, free-viewpoint video, and the creation of photo-realistic avatars for virtual and augmented reality telepresence. Finally, we will conclude with a discussion on the ethical implications of this technology and open research problems.![Image](https://pbs.twimg.com/media/E8R_BFBXMAMwJYl?format=jpg&name=900x900)
-
-
-***
-#### 《Geometric Deep Learing》（GDL）
-##### original twitter link（from @PetarV_93 ）：
-https://twitter.com/PetarV_93/status/1424456886015889415
-
-##### webpage：
-https://geometricdeeplearning.com/lectures/
-
-##### video：
-https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3
-
-##### arxiv：
-https://arxiv.org/abs/2104.13478
-
-##### content：
-As part of the African Master’s in Machine Intelligence (AMMI 2021), we have delivered a course on Geometric Deep Learing (GDL100), which closely follows the contents of our GDL proto-book. We make all materials and artefacts from this course publicly available, as companion material for our proto-book, as well as a way to dive deeper into some of the contents for future iterations of the book.![Image](https://pbs.twimg.com/media/E8SvKLhXsAY3RtG?format=jpg&name=900x900)
-
-***
-#### SIGGRAPH2021 Course 《Geometry Processing with Intrinsic Triangulations》
-##### original twitter link（from @keenanisalive）：
-https://twitter.com/keenanisalive/status/14247302556679987314
-
-##### webpage：
-https://s2021.siggraph.org/presentation/?id=gensub_306&sess=sess157
-
-##### notes（pdf）：
-https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
-
-##### content：
-This course provides an introduction to intrinsic triangulations, motivated by problems in robust geometry processing. Content covers essential mathematical background, state-of-the-art data structures and algorithms, and includes a hands-on coding demo. Topics include mesh parameterization, vector field processing, geodesics, PDEs on surfaces, and more.![img](https://s2021.siggraph.org/wp-content/linklings_snippets/representative_images/if4ATyZHHBjnmaJv.jpg)
-
-***
-#### 5min introduction video 《Systematically Differentiating Parametric Discontinuities: A Short Summary》
-##### original twitter link（from @tzumaoli ）：
-https://twitter.com/tzumaoli/status/1424514881382846465
-
-##### video：
-https://www.youtube.com/watch?v=K7lcFw8Vm3c
-
-##### SIGGRAPH Q&A session：
-https://s2021.siggraph.org/session/?sess=sess121
-
-##### content:
-Emerging research in computer graphics, inverse problems, and machine learning requires us to differentiate and optimize parametric discontinuities. These discontinuities appear in object boundaries, occlusion, contact, and sudden change over time. In many domains, such as rendering and physics simulation, we differentiate the parameters of models that are expressed as integrals over discontinuous functions. Ignoring the discontinuities during differentiation often has a significant impact on the optimization process. Previous approaches either apply specialized hand-derived solutions, smooth out the discontinuities, or rely on incorrect automatic differentiation.  
-
-We propose a systematic approach to differentiating integrals with discontinuous integrands, by developing a new differentiable programming language. We introduce integration as a language primitive and account for the Dirac delta contribution from differentiating parametric discontinuities in the integrand. We formally define the language semantics and prove the correctness and closure under the differentiation, allowing the generation of gradients and higher-order derivatives. We also build a system, Teg, implementing these semantics. Our approach is widely applicable to a variety of tasks, including image stylization, fitting shader parameters, trajectory optimization, and optimizing physical designs.
-
-***
-#### Advances in Real-Time Rendering 
-##### original twitter link（from @mirror2mask）
-https://twitter.com/mirror2mask/status/1425200248947810305
-##### webpage：
-http://advances.realtimerendering.com/s2021/index.html
-##### content：
-Modern video games employ a variety of sophisticated algorithms to produce groundbreaking 3D rendering pushing the visual boundaries and interactive experience of rich environments. This course brings state-of-the-art and production-proven rendering techniques for fast, interactive rendering of complex and engaging virtual worlds of video games.
-
-This year the course includes speakers from the makers of several innovative games and game engines, such as Sucker Punch Productions, Epic Games, Activision , EA | SEED and Unity Technologies. The course will cover a variety of topics relevant to the practitioners of real-time rendering in games and other real-time 3D applications. The topics will cover diverse subjects such as real-time global illumination, atmospheric rendering and dynamic time of day management, advances in physically-based rendering, novel skylight model, improvements for spatial upscaling, and several approaches for handling large geometric complexities in real-time scenarios.
-
-***
-#### Special trilogy of lectures by Michael Bronstein on "Geometric Deep Learning"
-##### original twitter link(from @NewtonInstitute)
-https://twitter.com/NewtonInstitute/status/1428721950596247554
-##### time and location:
-23/24/25 August 10:00-11:00
-live: https://t.co/FH5JsrL1kD?amp=1
-
-##### content:![Image](https://pbs.twimg.com/media/E9PWG_dWQAEIwZc?format=png&name=medium)
-
