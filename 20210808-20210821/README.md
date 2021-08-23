@@ -203,7 +203,7 @@ https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
 ##### content：
 This course provides an introduction to intrinsic triangulations, motivated by problems in robust geometry processing. Content covers essential mathematical background, state-of-the-art data structures and algorithms, and includes a hands-on coding demo. Topics include mesh parameterization, vector field processing, geodesics, PDEs on surfaces, and more.![img](https://s2021.siggraph.org/wp-content/linklings_snippets/representative_images/if4ATyZHHBjnmaJv.jpg)
 
-**介绍了intrinsic triangulations方向所需的数学背景知识、前沿的算法同时提供了demo。**
+**介绍了intrinsic triangulations方向所需的数学背景知识、前沿的算法，同时提供了demo。**
 
 ***
 #### 5min introduction video 《Systematically Differentiating Parametric Discontinuities: A Short Summary》
@@ -234,7 +234,7 @@ Modern video games employ a variety of sophisticated algorithms to produce groun
 
 This year the course includes speakers from the makers of several innovative games and game engines, such as Sucker Punch Productions, Epic Games, Activision , EA | SEED and Unity Technologies. The course will cover a variety of topics relevant to the practitioners of real-time rendering in games and other real-time 3D applications. The topics will cover diverse subjects such as real-time global illumination, atmospheric rendering and dynamic time of day management, advances in physically-based rendering, novel skylight model, improvements for spatial upscaling, and several approaches for handling large geometric complexities in real-time scenarios.
 
-**介绍了游戏和其他实时应用中的渲题问题，以及这一领域前沿技术与进展。**
+**介绍了游戏和其他实时应用中的渲染问题，以及这一领域前沿技术与进展。**
 
 ***
 #### Special trilogy of lectures by Michael Bronstein on "Geometric Deep Learning"
