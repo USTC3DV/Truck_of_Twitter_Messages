@@ -1,7 +1,45 @@
 ### 意见性分享
-- ##### Jia-Bin-Huang:
+- **机器人需要触觉吗？**
 
-    **So You Think You Want to Apply for a PhD The application cycle is coming up. How do I maximize my chance of getting admitted to my dream program?  Check out the thread below for resources/advices/tips!**
+  #####   Srinath Sridhar:
+
+  **For someone so successful in the high-tech business, [@elonmusk](https://twitter.com/elonmusk) is surprisingly naive about AI/robots. We are decades away from building robots with the capabilities he claims in his prototype (human-level hands by 2022? good luck with that).**
+
+    **Michael Black**: People typically underestimate the importance of haptics. Without touch, you don’t have a hand. We still don’t have the sensors to recreate human-level touch. Then for real human-level hand control, you need vision. We’ve seen the overly optimistic claims about that before.
+
+    **Michael Black**: To understand why vision is not enough for human-level dexterity, the famous Johannson experiment is illustrative. You can live a happy and productive life without vision. You can't live without touch.  [https://youtube.com/watch?v=HH6QD0MgqDQ](https://t.co/duwU9xdG77?amp=1)
+
+  reference:https://twitter.com/drsrinathsridha/status/1428775742943412233
+
+- **Siggraph Vs other conferences**
+
+  ##### Michael Black:
+
+  ​     **There is a lot of good thought going into how to make siggraph more attractive for authors of technical papers (e.g. from ** [@AaronHertzmann](https://twitter.com/AaronHertzmann)**).  All good. But the differences between the physical siggraph and cvpr/iccv/eccv conferences also matter. **
+
+  1.Remember being a grad student? If you write a paper, your advisor sends you on a free trip. So cool. CVPR/ICCV/ECCV are in different and exciting places. SIGGRAPH is mostly in LA.  Boring.  Branch out! 
+
+  2.SIGGRAPH is huge but very little of it has anything to do with me. The technical papers session is tiny. A scientist is lost in the crowd. You bump into fewer people. You walk for miles. 
+
+  3.Students go where the jobs are. CVPR/ICCV/ECCV are huge recruiting events. If you are not seen as a place to get hired, you won't attract as many papers. 
+
+  4.Parties. SIGGRAPH used to be *the* conference for parties. Now this has flipped and CVPR/ICCV/ECCV have the good parties. This is correlated with point 3 about hiring. 
+
+  5.Workshops. This is now a huge part of CVPR/ICCV/ECCV.  Vision workshops have lots of marquee, big-name, speakers. They also draw in scientists who don't have a paper in the main conference.
+
+  6.Senior people need to show up. My group gave up on submitting to SIGGRAPH Asia because most senior people from outside of Asia don't show up. It's a bit depressing there. CVPR/ICCV/ECCV attract senior people from all over the world. Young people want to meet them.
+
+  7.ACM copyright policies are a pain. If you use standard image/video datasets, you can't print the results because it is usually impossible to get the rights necessary to satisfy ACM. So if you own the data, fine. But if you want to compare to a CVPR paper, forget it. 
+
+  reference:https://twitter.com/Michael_J_Black/status/1415555214191566849
+
+- **PhD申请建议**
+
+  ##### Jia-Bin-Huang:
+
+  ​    **So You Think You Want to Apply for a PhD **
+
+  ​    **The application cycle is coming up. How do I maximize my chance of getting admitted to my dream program?  Check out the thread below for resources/advices/tips!**
 
   1.EVERYTHING you need to know about PhD applications! These videos are beyond awesome! (I wish I know these when I applied!)https://t.co/C4Q27vU9p9?amp=1
 
@@ -15,35 +53,43 @@
 
   
 
-- ##### Andrea Tagliasacchi:
+- **NeuerIPS审稿机制讨论**
 
-  ​    **I'm not sure how I feel about the fact that I can see other reviewer's identities at [#NeurIPS](https://twitter.com/hashtag/NeurIPS?src=hashtag_click)... how is that not biasing the review system? (i.e. junior folks altering their scores after seeing a senior providing a polarizing opinion)**
+  ##### Andrea Tagliasacchi:
 
-  ​     **Bruno Vilhena Adorno**: Are you guys able to see other reviewers' scores before providing yours? If yes, that will likely bias other reviewers. I like the idea of open reviews with full disclosure of identities, but I think reviews should be available to everyone only after everybody submitted theirs.
-
-  ​     **Andrea Tagliasacchi**: You can change your scores after seeing others. And that should be possible, as another reviewer spotted a technical problem I did not (and that might change my opinion entirely...); but that's the point, it's the technical issue, not the "name" of who expressed it...
-
-  ​    **Bruno Vilhena Adorno**: Totally agree. In that case, maybe a solution would be to disclose the reviews but not the reviewers' identities until the whole process is finished.
+   **I'm not sure how I feel about the fact that I can see other reviewer's identities at [#NeurIPS](https://twitter.com/hashtag/NeurIPS?src=hashtag_click)... how is that not biasing the review system? (i.e. junior folks altering their scores after seeing a senior providing a polarizing opinion)**
+      
+     **Bruno Vilhena Adorno**: Are you guys able to see other reviewers' scores before providing yours? If yes, that will likely bias other reviewers. I like the idea of open reviews with full disclosure of identities, but I think reviews should be available to everyone only after everybody submitted theirs.
+      
+     **Andrea Tagliasacchi**: You can change your scores after seeing others. And that should be possible, as another reviewer spotted a technical problem I did not (and that might change my opinion entirely...); but that's the point, it's the technical issue, not the "name" of who expressed it...
+      
+    **Bruno Vilhena Adorno**: Totally agree. In that case, maybe a solution would be to disclose the reviews but not the reviewers' identities until the whole process is finished.
 
   reference：https://twitter.com/taiyasaki/status/1425250276303282176
 
-- ##### Keenan Crane:
-
-  ​    **There’s a lot of criticism of h-numbers, paper counts, citation metrics, “publish or perish”… yet we don’t lead by example. For the next generation (and my own mental health), I’ve at least deleted my Google Scholar profile. I pray you will judge me by the quality of my work.**
-
-  ​    **Nicolas Guarin**: I think that as an established researcher in your field this is not a problem for you. Nevertheless, for people starting it might be a problem. There are even some positions that explicitly request for your Google profile. I'm not saying that doing this is wrong, though.
-
-  ​    **Bryce**: If I cannot see it, it does not exist. I don't understand the signalling here. If you actually wanted to fix these issues, you would be out there fixing them. Maybe the best just want to be working, and that's how it propagates. Heart disease, cancer, and H-indicies ...
-
-  ​    **Constantine Butakoff**: Its a bit weird as Google citations index is not very reliable and, not sure now, but used to include paper duplicates and self citations. Spanish ministry and public institutions rely more on scopus. Google's system is very much irrelevant.
-
-  reference:https://twitter.com/keenanisalive/status/1425061350951243776
-
   
 
-- ##### Jia-Bin Huang:
+- **评价机制的利与弊**
 
-    **How to keep track with the literature? Getting started with research but overwhelmed by THOUSANDS of papers each year? How could one stay sane keeping track of the literature?  Here are some tricks I found useful.**
+    ##### Keenan Crane:
+
+    **There’s a lot of criticism of h-numbers, paper counts, citation metrics, “publish or perish”… yet we don’t lead by example. For the next generation (and my own mental health), I’ve at least deleted my Google Scholar profile. I pray you will judge me by the quality of my work.**
+
+     **Nicolas Guarin**: I think that as an established researcher in your field this is not a problem for you. Nevertheless, for people starting it might be a problem. There are even some positions that explicitly request for your Google profile. I'm not saying that doing this is wrong, though.
+
+     **Bryce**: If I cannot see it, it does not exist. I don't understand the signalling here. If you actually wanted to fix these issues, you would be out there fixing them. Maybe the best just want to be working, and that's how it propagates. Heart disease, cancer, and H-indicies ...
+
+     **Constantine Butakoff**: Its a bit weird as Google citations index is not very reliable and, not sure now, but used to include paper duplicates and self citations. Spanish ministry and public institutions rely more on scopus. Google's system is very much irrelevant.
+
+    reference:https://twitter.com/keenanisalive/status/1425061350951243776
+
+    
+
+- **选/读文献建议**
+
+    ##### Jia-Bin Huang:
+
+  **How to keep track with the literature? Getting started with research but overwhelmed by THOUSANDS of papers each year? How could one stay sane keeping track of the literature?  Here are some tricks I found useful.**
 
   1.*Track the people, not the papers* 
 
@@ -68,44 +114,39 @@
   6.*Identify the trend* 
 
     Use your favorite tools to find what's hot/trendy, e.g.,  [http://arxiv-sanity.com](https://t.co/c9MzPyciO7?amp=1)  [https://paperswithcode.com](https://t.co/RkkPp3I3EQ?amp=1) [https://twitter.com](https://twitter.com/)
-
+  
   reference:https://twitter.com/jbhuang0604/status/1426039195542360070
 
 
 
-- #####     Tomasz Malisiewicz:
+- **三位视觉x数字孪生**
 
-    **I had a great chat this past weekend with [@AmirRubin](https://twitter.com/AmirRubin) about the intersection of 3D computervisionand digitaltwins. There are many intriguing ideas in this space, especially for me, who spent five years working on SLaM for MixedReality.**
+    #####     Tomasz Malisiewicz:
 
-  ​    **Amir Rubin**: We are at the very beginning of the impact 3D mapping+ SLAM will have on the future; Metaverse concepts will transform how we play and interact, but Digital Twins are the foundation for transforming industry!
+    **I had a great chat this past weekend with [@AmirRubin](https://twitter.com/AmirRubin) about the intersection of 3D computervision and digitaltwins. There are many intriguing ideas in this space, especially for me, who spent five years working on SLaM for MixedReality.**
+
+      **Amir Rubin**: We are at the very beginning of the impact 3D mapping+ SLAM will have on the future; Metaverse concepts will transform how we play and interact, but Digital Twins are the foundation for transforming industry!
 
      **Tomasz Malisiewicz**: I love [@AmirRubin](https://twitter.com/AmirRubin) ’s enthusiasm for wanting to learn about the power of deep learning when it comes to SLAM, SfM, and all things related to robotics. I miss in-person conferences during which we would dine, imbibe, and brainstorm!
 
-  reference:https://twitter.com/jbhuang0604/status/1426039195542360070
+    reference:https://twitter.com/jbhuang0604/status/1426039195542360070
 
 
 
-- ##### Marcus Brubaker:
 
-    **Academic Twitter: What systems/processes do you use to keep track of papers for reading?  I want to be able to add a paper/blog post from anywhere (desktop, mobile, etc) and later browse or search by title/author/etc.  Should require minimal effort to add, avoid duplicates, etc.**
+- **读文软件分享**
+
+    ##### Marcus Brubaker:
+
+  **Academic Twitter: What systems/processes do you use to keep track of papers for reading?  I want to be able to add a paper/blog post from anywhere (desktop, mobile, etc) and later browse or search by title/author/etc.  Should require minimal effort to add, avoid duplicates, etc.**
 
   **Sebastian Gerard**: I'm only on desktop, but Zotero lets you add anything with the click of a button (browser plugin), marks duplicates and searching works. It stores a copy of the PDF, which you can annotate. Bibtex export of the whole library is supported. Not an expert, but I'm happy so far.
 
   **Sebastian Gerard**: For processes: If I find something I want to read, I add it to Zotero, add a "todo" tag, which, in my config, adds a red marker to the paper title. I can also filter by tag ofc. To organize papers, I can add them to different "collections", use tags or link papers as "related".
-
+  
   reference:https://twitter.com/marcusabrubaker/status/1428423865907171333
 
 
-
-- #####   Srinath Sridhar:
-
-  ​      **For someone so successful in the high-tech business, [@elonmusk](https://twitter.com/elonmusk) is surprisingly naive about AI/robots. We are decades away from building robots with the capabilities he claims in his prototype (human-level hands by 2022? good luck with that).**
-
-  ​    **Michael Black**: People typically underestimate the importance of haptics. Without touch, you don’t have a hand. We still don’t have the sensors to recreate human-level touch. Then for real human-level hand control, you need vision. We’ve seen the overly optimistic claims about that before.
-
-  ​    **Michael Black**: To understand why vision is not enough for human-level dexterity, the famous Johannson experiment is illustrative. You can live a happy and productive life without vision. You can't live without touch.  [https://youtube.com/watch?v=HH6QD0MgqDQ](https://t.co/duwU9xdG77?amp=1)
-
-  reference:https://twitter.com/drsrinathsridha/status/1428775742943412233
 
 
 
