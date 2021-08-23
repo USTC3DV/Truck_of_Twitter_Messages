@@ -37,7 +37,7 @@
 
   ##### Jia-Bin-Huang:
 
-  ​    **So You Think You Want to Apply for a PhD **
+  ​    **So You Think You Want to Apply for a PhD**
 
   ​    **The application cycle is coming up. How do I maximize my chance of getting admitted to my dream program?  Check out the thread below for resources/advices/tips!**
 
