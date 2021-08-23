@@ -200,19 +200,18 @@ live: https://t.co/FH5JsrL1kD?amp=1
 ### 成果推荐及讨论
 
 - ##### [Mahmoud Afifi](https://twitter.com/mahmoudnafifi/status/1424180438101368835)
-  Excited to announce that our paper on cross-camera color constancy has been accepted as an oral presentation at #ICCV2021
+  **Excited to announce that our paper on cross-camera color constancy has been accepted as an oral presentation at #ICCV2021**
   
   <div align=center><img src="materials/1424180438101368835.jpg" alt="Cover" width="50%"/></div>
-  
-  abs: https://arxiv.org/pdf/2011.11890.pdf code: https://github.com/mahmoudnafifi/C5
   
   Main idea: With some extra (unlabeled) test-set images, you can build a hyper-network that calibrates itself at test time to previously unseen cameras.
   
   <div align=center><img src="materials/1424180438101368835-2.jpg" alt="Cover" width="75%"/></div>
 
+  abs: https://arxiv.org/pdf/2011.11890.pdf code: https://github.com/mahmoudnafifi/C5
 
 - ##### [Andrej Karpathy](https://twitter.com/karpathy/status/1424469506403934210)
-  Perceiver IO is good reading/pointers for neural net architectures https://arxiv.org/abs/2107.14795 esp w.r.t. encoding/decoding schemes of various modalities to normalize them to & from Transformer-amenable latent space (a not-too-large set of vectors), where the bulk of compute happens.
+  **Perceiver IO is good reading/pointers for neural net architectures https://arxiv.org/abs/2107.14795 esp w.r.t. encoding/decoding schemes of various modalities to normalize them to & from Transformer-amenable latent space (a not-too-large set of vectors), where the bulk of compute happens.**
   
   <div align=center><img src="materials/1424469506403934210.png" alt="Cover" width="75%"/></div>
   
@@ -222,15 +221,18 @@ live: https://t.co/FH5JsrL1kD?amp=1
 
 
 - ##### [Chaitanya K. Joshi](https://twitter.com/chaitjo/status/1425389897423069188)
-  Hi GNN friends, I'm creating an awesome-list on efficient Graph Neural Networks and scalable Graph Representation Learning. I'm excited about real-world applications of GNNs, and am looking to learn more about deploying them! Please help improve: https://github.com/chaitjo/awesome-efficient-gnn
+  **Hi GNN friends, I'm creating an awesome-list on efficient Graph Neural Networks and scalable Graph Representation Learning. I'm excited about real-world applications of GNNs, and am looking to learn more about deploying them! Please help improve: https://github.com/chaitjo/awesome-efficient-gnn**
   
   - **Chaitanya K. Joshi:** I do aim to keep it as 'on topic' as possible -- I want to compile must-read papers on **fundamental methodologies** for developing **efficient** and **scalable** GNN models.
   
   - **Chaitanya K. Joshi:** I am thinking of creating a new list on the intersection of GNNs and combinatorial optimization, which is another area I've been looking at recently. (But I do wonder if that line of research is already being deployed in real-world systems?)
   
-
+  评述：Twitter作者为GNN（图神经网络）的研究提供了一个交流推广平台，最新的相关研究将被这个仓库收纳。
+  
 - ##### [Forrester Cole](https://twitter.com/forrestercole/status/1425837764545757186)
-  We have a new paper on differentiable rendering! The core idea is to produce differentiable occlusions by using non-diff. rasterization to point-sample the geometry, then differentiable splatting to draw the points to the screen. abs: https://arxiv.org/abs/2108.04886
+  **We have a new paper on differentiable rendering! abs: https://arxiv.org/abs/2108.04886**
+  
+  The core idea is to produce differentiable occlusions by using non-diff. rasterization to point-sample the geometry, then differentiable splatting to draw the points to the screen.
   
   This approach uses autodiff for all derivatives, so it's simple to implement and needs no custom CUDA code. Even with autodiff, it renders complex geometry as fast or faster than any other diff. rasterizer and easily handles millions of faces.
   
@@ -246,7 +248,9 @@ live: https://t.co/FH5JsrL1kD?amp=1
 
 
 - ##### [Russell Dinnage](https://twitter.com/ecologician/status/1427630304223760385)
-  Progress! Got basic functionality working on #rbff! Here is a face flattened by boundary first flattening in R. Still have more functionality to add, and a lot of polishing, but we are in business! #rcpp #rstats (yes, it is kind of creepy looking).
+  **Progress! Got basic functionality working on #rbff! Here is a face flattened by boundary first flattening in R.**
+  
+  Still have more functionality to add, and a lot of polishing, but we are in business! #rcpp #rstats (yes, it is kind of creepy looking).
   
   <div align=center><img src="materials/1427630304223760385.png" alt="Cover" width="25%"/></div>
   
@@ -260,38 +264,45 @@ live: https://t.co/FH5JsrL1kD?amp=1
 
 
 - ##### [Tomasz Malisiewicz](https://twitter.com/quantombone/status/1427816337326362625)
-  Reassessing the Limitations of CNN Methods for Camera Pose Regression
-  
-  abs: https://arxiv.org/abs/2108.07260
+  **Reassessing the Limitations of CNN Methods for Camera Pose Regression**
   
   A closer look into why directly regressing camera poses using ConvNets has not worked too well and a potential solution. #computervision #robotics #3D
   
   <div align=center><img src="materials/1427816337326362625.jpg" alt="Cover" width="50%"/></div>
   
+  abs: https://arxiv.org/abs/2108.07260
+  
+  
 - ##### [Brian](https://twitter.com/bhsavery/status/1427732705806929923)
-  Implemented @Peter_shirley's "Ray Tracing in One Weekend" in pure #python that can execute on the GPU (via Metal, Vulkan, CUDA) using a package called "Taichi". github: https://github.com/bsavery/ray-tracing-one-weekend-taichi. Was surprisingly easy and runs fast, these higher level languages for GPU could be the future!
+  **Implemented @Peter_shirley's "Ray Tracing in One Weekend" in pure #python that can execute on the GPU (via Metal, Vulkan, CUDA) using a package called "Taichi".** Was surprisingly easy and runs fast, these higher level languages for GPU could be the future!
+  
+  github: https://github.com/bsavery/ray-tracing-one-weekend-taichi.
   
   - **erithacus:** I'm planning on having a go at it in swift at some point. Will be a big challenge for me (especially as I’ll have to learn a bit of C++ to interpret the course), but I think it will be fun.
   
+  
 - ##### [EveryPoint](https://twitter.com/EveryPointIO/status/1427693517686513666)
-  We are exploring the fusion of drone and iPhone capture with EveryPoint. The drone captures the general landscape and the rooftop structures. The EveryPoint app captures the building facades and hard to see areas. Next step, autonomous captures. #architecture #drones #3DModeling
+  **We are exploring the fusion of drone and iPhone capture with EveryPoint.** The drone captures the general landscape and the rooftop structures. The EveryPoint app captures the building facades and hard to see areas. Next step, autonomous captures. #architecture #drones #3DModeling
   
   - **Jared Heinly:** Being able to combine aerial imagery with ground-based captures to create a unified 3D reconstruction is a powerful tool. Aerial imagery lacks data in hard-to-reach areas, and ground-based imagery lacks overall scene context. The combination gives you the best of both worlds.
 
   - **Jonathan Stephens:** Not everyone has the skills to model full buildings using drones, nor do they have access to emerging technology like Skydio's 3D Scan. We st @EveryPointIO are looking at hybrid capture method using automated drone capture with iPhone scans.
   
-
-- ##### [Tomasz Malisiewicz](https://twitter.com/quantombone/status/1428185462611619845)
-  Pixel-Perfect Structure-from-Motion with Featuremetric Refinement
+  评述：EveryPoint在建筑场景的捕捉与重建的一些进展与展望。
   
-  abs: https://arxiv.org/abs/2108.08291 code: https://github.com/cvg/pixel-perfect-sfm
+- ##### [Tomasz Malisiewicz](https://twitter.com/quantombone/status/1428185462611619845)
+  **Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**
   
   Cool new #computervision paper from ETHZ showing how to improve over classical detect-once-and-never-refine local features. Also now a part of the popular colmap #SfM library. #iccv2021
   
   <div align=center><img src="materials/1428185462611619845.jpg" alt="Cover" width="75%"/></div>
   
+  abs: https://arxiv.org/abs/2108.08291 code: https://github.com/cvg/pixel-perfect-sfm
+  
 - ##### [Alan Wolfe](https://twitter.com/Atrix256/status/1428027321785536522)
-  FLIP is an algorithm from NVIDIA that quantifies perceptual image quality. There's a real easy to compile and use C++ implementation on github. I just downloaded the source, compiled in VS and ran it! It has a cuda project too which runs a lot faster. code: https://github.com/NVlabs/flip
+  **FLIP is an algorithm from NVIDIA that quantifies perceptual image quality.** There's a real easy to compile and use C++ implementation on github. I just downloaded the source, compiled in VS and ran it! It has a cuda project too which runs a lot faster.
+  
+  code: https://github.com/NVlabs/flip
   
   - **Alan Wolfe:** It also has an option to let you spit data out to a CSV, so you can use this as part of automated testing or analysis.
 
@@ -304,19 +315,22 @@ live: https://t.co/FH5JsrL1kD?amp=1
     - **Alan Wolfe:** Yeah, I'm betting it definitely could.  I was sort of thinking this could be good for automated testing in games, to make sure things reasonably match some "gold master" reference images?
 
 - ##### [Michael Black](https://twitter.com/Michael_J_Black/status/1428050867245232147)
-  Most mocap datasets don't include 3D objects, which makes learning about human-object interaction hard. This new dataset uses our 54-camera Vicon system and our MoSh technology to capture realistic bodies interacting with 3D scene objects. Nice work @M_E_Hassan and capture team! project page: https://samp.is.tue.mpg.de/
+  **Most mocap datasets don't include 3D objects, which makes learning about human-object interaction hard. This new dataset uses our 54-camera Vicon system and our MoSh technology to capture realistic bodies interacting with 3D scene objects.** Nice work @M_E_Hassan and capture team! project page: https://samp.is.tue.mpg.de/
   
   <div align=center><img src="materials/1428050867245232147.png" alt="Cover" width="75%"/></div>
   
 
 - ##### [Facebook AI](https://twitter.com/facebookai/status/1428839288913936387)
-  What if you could create virtual boxing athletes that could automatically develop a winning strategy? We released a #deeplearning framework at #SIGGRAPH2021 that generates control policies for two-player sports where the players are simulated. Learn more: http://ow.ly/QSQt50FVee7
+  **What if you could create virtual boxing athletes that could automatically develop a winning strategy?**
+  
+  We released a #deeplearning framework at #SIGGRAPH2021 that generates control policies for two-player sports where the players are simulated. Learn more: http://ow.ly/QSQt50FVee7
   
   - **Mark Montgomery:** Are they aware of the jack-in-the-box ready to spring from underneath, or sniper in the rafters? It's the unknown unknowns in the real world that really challenges AI systems. The controlled environments are more relevant to FB than most others.
 
 - ##### [Maithra Raghu](https://twitter.com/maithra_raghu/status/1428740724074291208)
+  **Do Vision Transformers See Like Convolutional Neural Networks? New paper https://arxiv.org/abs/2108.08810.**
   
-  Do Vision Transformers See Like Convolutional Neural Networks? New paper https://arxiv.org/abs/2108.08810. The successes of Transformers in computer vision prompts a fundamental question: how are they solving these tasks? Do Transformers act like CNNs, or learn very different features?  We explore this question in our paper, finding key differences between internal representations of the architectures, crucial roles played by attention and residual connections, and ramifications for localization and transfer learning.
+  The successes of Transformers in computer vision prompts a fundamental question: how are they solving these tasks? Do Transformers act like CNNs, or learn very different features?  We explore this question in our paper, finding key differences between internal representations of the architectures, crucial roles played by attention and residual connections, and ramifications for localization and transfer learning.
   
   <div align=center><img src="materials/1428740724074291208.jpg" alt="Cover" width="75%"/></div>
   
