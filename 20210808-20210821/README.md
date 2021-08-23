@@ -125,7 +125,7 @@
 
     **I had a great chat this past weekend with [@AmirRubin](https://twitter.com/AmirRubin) about the intersection of 3D computervision and digitaltwins. There are many intriguing ideas in this space, especially for me, who spent five years working on SLaM for MixedReality.**
 
-      **Amir Rubin**: We are at the very beginning of the impact 3D mapping+ SLAM will have on the future; Metaverse concepts will transform how we play and interact, but Digital Twins are the foundation for transforming industry!
+     **Amir Rubin**: We are at the very beginning of the impact 3D mapping+ SLAM will have on the future; Metaverse concepts will transform how we play and interact, but Digital Twins are the foundation for transforming industry!
 
      **Tomasz Malisiewicz**: I love [@AmirRubin](https://twitter.com/AmirRubin) ’s enthusiasm for wanting to learn about the power of deep learning when it comes to SLAM, SfM, and all things related to robotics. I miss in-person conferences during which we would dine, imbibe, and brainstorm!
 
