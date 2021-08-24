@@ -1,5 +1,5 @@
 ### 意见性分享
-- 机器视觉与人类视觉
+- **机器视觉与人类视觉**
 
   [M. Alex O. Vasilescu](https://twitter.com/AlexVasilescu):
 
