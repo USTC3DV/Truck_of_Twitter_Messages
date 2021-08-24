@@ -3,19 +3,19 @@
 
   [M. Alex O. Vasilescu](https://twitter.com/AlexVasilescu):
 
-  **Context dependent image recognition problem **
+  **Context dependent image recognition problem**
 
-  **Lenin - facial hair **
+  **Lenin - facial hair**
 
-  **Stalin -pipe **
+  **Stalin -pipe**
 
-  **Khrushchev - corn **
+  **Khrushchev - corn**
 
-  **Brezhnev -medals **
+  **Brezhnev -medals**
 
-  **Gorbachev -wine **
+  **Gorbachev -wine**
 
-  **stain Yeltsin -hand with missing fingers **
+  **stain Yeltsin -hand with missing fingers**
 
   **Putin -facial features**
 
@@ -23,7 +23,7 @@
 
   
 
-  **Gedjglah **: Maybe as humans, we dramatically discount all other features(including peripheral facial features like moustache, scars) compared to the core-facial features.
+  **Gedjglah**: Maybe as humans, we dramatically discount all other features(including peripheral facial features like moustache, scars) compared to the core-facial features.
 
   reference:https://twitter.com/AlexVasilescu/status/1429502484691574784
 
