@@ -1,31 +1,4 @@
 ### 意见性分享
-- **机器视觉与人类视觉**
-
-  [M. Alex O. Vasilescu](https://twitter.com/AlexVasilescu):
-
-  **Context dependent image recognition problem**
-
-  **Lenin - facial hair**
-
-  **Stalin -pipe**
-
-  **Khrushchev - corn**
-
-  **Brezhnev -medals**
-
-  **Gorbachev -wine**
-
-  **stain Yeltsin -hand with missing fingers**
-
-  **Putin -facial features**
-
-  <div align=center><img src="https://pbs.twimg.com/media/E9acsS9VcAsRld_?format=jpg&name=small" alt="Image" style="zoom: 10%" /></div>
-
-  
-
-  **Gedjglah**: Maybe as humans, we dramatically discount all other features(including peripheral facial features like moustache, scars) compared to the core-facial features.
-
-  reference:https://twitter.com/AlexVasilescu/status/1429502484691574784
 
 - **关于论文迭代修改**
   
