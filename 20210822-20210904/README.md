@@ -39,6 +39,7 @@
   
   **Alessandro Saccon:** Even unsuccessful groups face the same issue. Just the key idea is neither good nor new enough, and their paper will never get accepted or less cited. So the real question for me is: how do you get a great idea?
   
+  reference: https://twitter.com/MattNiessner/status/1429856784420900868?s=20
   
   
   
