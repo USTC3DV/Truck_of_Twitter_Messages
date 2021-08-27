@@ -97,9 +97,11 @@ https://www.youtube.com/watch?v=9mOX_JbVTNY&ab_channel=INISeminarRoom1
   imGHUM shares it parameterization with the explicit body model GHUM (https://github.com/google-research/google-research/tree/master/ghum). But imGHUM is a SDF, thus fitting to point clouds is straight-forward and fully differentiable. Here we use imGHUM to recover pose and shape parameters of (partial) scans. 
   
   ![Image](https://pbs.twimg.com/media/E9nrF7cXIAILtXt?format=jpg&name=900x900)
+  
   The implicit semantics returned by imGHUM allows e.g. for surface coloring or texturing. Together with the signed distance they are also a 4D descriptor of points in space.
   
   <div align=center><img src="https://pbs.twimg.com/media/E9nrxNeXIAAi8hY?format=jpg&name=900x900" alt="Cover" width="50%"/></div>
+  
   imGHUM generalizes well to novel shapes and poses. We provide gender-neutral, male and female imGHUM models of the full body, head, left and right hand. 
   
   <div align=center><img src="https://pbs.twimg.com/media/E9nspWNXoAMLF1Q?format=jpg&name=900x900" alt="Cover" width="70%"/></div>
