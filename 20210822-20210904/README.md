@@ -89,9 +89,13 @@ https://www.youtube.com/watch?v=9mOX_JbVTNY&ab_channel=INISeminarRoom1
 
 - ##### [Thiemo Alldieck](https://twitter.com/thmo_a)
   **imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose**
+  
   pdf：https://arxiv.org/pdf/2108.10842.pdf
+  
   code：https://github.com/google-research/google-research/tree/master/imghum
+  
   imGHUM shares it parameterization with the explicit body model GHUM (https://github.com/google-research/google-research/tree/master/ghum). But imGHUM is a SDF, thus fitting to point clouds is straight-forward and fully differentiable. Here we use imGHUM to recover pose and shape parameters of (partial) scans. 
+  
   ![Image](https://pbs.twimg.com/media/E9nrF7cXIAILtXt?format=jpg&name=900x900)
   The implicit semantics returned by imGHUM allows e.g. for surface coloring or texturing. Together with the signed distance they are also a 4D descriptor of points in space.
   
@@ -102,6 +106,7 @@ https://www.youtube.com/watch?v=9mOX_JbVTNY&ab_channel=INISeminarRoom1
   
 - ##### [Tomasz Malisiewicz](https://twitter.com/quantombone)
   **DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras**
+  
   pdf: https://arxiv.org/abs/2108.10869
   
   The method uses recurrent iterative updates of camera pose and pixelwise depth through a Dense Bundle Adjustment layer. Runs in real-time with two 3090 GPUs.
