@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=9mOX_JbVTNY&ab_channel=INISeminarRoom1
   **3D Reconstruction from public webcams**
   
   Hey @AmirRubin, check out this 3D #computervision project which uses SuperGlue, a deep feature-based matcher—extremely useful for creating a robust #digitaltwin of outdoor spaces. Thanks @ducha_aiki for sharing!
- 
+
   <div align=center><img src="https://pbs.twimg.com/media/E9jm_PyX0Bwm06X?format=jpg&name=small" alt="Cover" width="75%"/></div>
   
   abs: https://arxiv.org/abs/2108.09476
@@ -86,3 +86,24 @@ https://www.youtube.com/watch?v=9mOX_JbVTNY&ab_channel=INISeminarRoom1
 
   <div align=center><img src="https://pbs.twimg.com/media/E9lPVSAWEAg28Fi?format=jpg&name=small" alt="Cover" width="75%"/></div>
   reference: https://twitter.com/quantombone/status/1430146858773630994?s=20
+
+- ##### [Thiemo Alldieck](https://twitter.com/thmo_a)
+  **imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose**
+  pdf：https://arxiv.org/pdf/2108.10842.pdf
+  code：https://github.com/google-research/google-research/tree/master/imghum
+  imGHUM shares it parameterization with the explicit body model GHUM (https://github.com/google-research/google-research/tree/master/ghum). But imGHUM is a SDF, thus fitting to point clouds is straight-forward and fully differentiable. Here we use imGHUM to recover pose and shape parameters of (partial) scans. 
+  ![Image](https://pbs.twimg.com/media/E9nrF7cXIAILtXt?format=jpg&name=900x900)
+  The implicit semantics returned by imGHUM allows e.g. for surface coloring or texturing. Together with the signed distance they are also a 4D descriptor of points in space.
+  
+  <div align=center><img src="https://pbs.twimg.com/media/E9nrxNeXIAAi8hY?format=jpg&name=900x900" alt="Cover" width="50%"/></div>
+  imGHUM generalizes well to novel shapes and poses. We provide gender-neutral, male and female imGHUM models of the full body, head, left and right hand. 
+  
+  <div align=center><img src="https://pbs.twimg.com/media/E9nspWNXoAMLF1Q?format=jpg&name=900x900" alt="Cover" width="70%"/></div>
+  
+- ##### [Tomasz Malisiewicz](https://twitter.com/quantombone)
+  **DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras**
+  pdf: https://arxiv.org/abs/2108.10869
+  
+  The method uses recurrent iterative updates of camera pose and pixelwise depth through a Dense Bundle Adjustment layer. Runs in real-time with two 3090 GPUs.
+  
+  ![Image](https://pbs.twimg.com/media/E9mxwLCXoAMYa6q?format=jpg&name=900x900)
