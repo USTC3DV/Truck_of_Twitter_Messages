@@ -120,6 +120,8 @@ https://www.youtube.com/watch?v=9mOX_JbVTNY&ab_channel=INISeminarRoom1
   **We add semantics outputs to NeRF models of 3D occupancy/colour. Joint representation allows very sparse or noisy in-place supervision to generate high quality dense prediction.**
   
   project page:https://shuaifengzhi.com/Semantic-NeRF/
-  ![Video](https://shuaifengzhi.com/Semantic-NeRF/img/VS_room2.mp4)
- - **Andrew Davison**: Of course this is just the beginning of potential more general use of neural implicit models to represent scene properties, such as surface properties or affordances which could be very useful in robotics.
+  - <video src="https://shuaifengzhi.com/Semantic-NeRF/img/VS_room2.mp4"></video>
+  - **Andrew Davison**: Of course this is just the beginning of potential more general use of neural implicit models to represent scene properties, such as surface properties or affordances which could be very useful in robotics.
+  
+  reference:https://twitter.com/AjdDavison/status/1430884726705901568
   
