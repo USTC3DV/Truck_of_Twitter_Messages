@@ -127,3 +127,29 @@ https://www.youtube.com/watch?v=9mOX_JbVTNY&ab_channel=INISeminarRoom1
   
   reference:https://twitter.com/AjdDavison/status/1430884726705901568
   
+- ##### [TensorFlow](https://twitter.com/TensorFlow)
+  **MoveNet is now on mobile!**
+  
+  The state-of-the-art pose estimation model finally comes to mobile via TensorFlow Lite with CPU acceleration enabled. Now you can run pose estimation in realtime on modern smartphones.
+  
+  [Learn more](https://t.co/lmGgSVEbz4?amp=1)
+  
+  - **Glooface**: Does it work on cats? My one has always fanatasised about being a saber-toothed tiger.
+    - **Khanh**: This model can only detect human poses at this moment, but I took note of the feature request.
+  
+  - **Khanh**: This MoveNet model is provided as a standalone TFLite model with sample implementation written in Kotlin, Python and Swift (coming soon) while MediaPipe requires you to be familiar with Bazel and C++. I think MoveNet is easier to use for mobile developers.
+
+  - **hichem le s**: This one seems to be better,  i used years ago mediapipe and the model was not so performant as this one, maybe mediapipe become better than years ago i dont know.
+
+  reference: https://twitter.com/TensorFlow/status/1427300403494928386?s=20
+  
+- ##### [Ankur Handa](https://twitter.com/ankurhandos)
+  **We are excited to share Isaac Gym tech report https://arxiv.org/abs/2108.10470.** Physics simulation data is directly passed to pytorch without ever going through any CPU bottlenecks in the process allowing blazing fast training on many challenging environments.
+  
+  We can train shadow hand cube rotation with all sorts of randomisations (as detailed in https://arxiv.org/abs/1808.00177) in  ~ 1 hour using feed forward networks and ~6 hours with LSTMs.
+  
+  <div align=center><img src="https://pbs.twimg.com/media/E9xkex0UUAUBthn?format=png&name=small" alt="Cover" width="50%"/></div>
+  
+  Many other interesting results are available here: https://sites.google.com/view/isaacgym-nvidia
+  
+  reference: https://twitter.com/ankurhandos/status/1431130561804865538?s=20
