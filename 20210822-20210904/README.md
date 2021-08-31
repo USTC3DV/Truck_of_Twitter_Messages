@@ -153,3 +153,22 @@ https://www.youtube.com/watch?v=9mOX_JbVTNY&ab_channel=INISeminarRoom1
   Many other interesting results are available here: https://sites.google.com/view/isaacgym-nvidia
   
   reference: https://twitter.com/ankurhandos/status/1431130561804865538?s=20
+
+- ##### [Kostas Daniilidis](https://twitter.com/KostasPenn)
+  **Guess the dance!** Produced by [the amazing notebook](https://github.com/nkolot/ProHMR) developed by @nikoskolot @geopavlakos based on our #ICCV2021 ProHMR.(So easy to run that even I an old professor can run it. Video cut to hide the name of the dance).
+  
+  reference: https://twitter.com/KostasPenn/status/1432351412885676033?s=20
+  
+- ##### [Alex Mordvintsev](https://twitter.com/zzznah)
+  **"Controlling Neural CA with noise"** -- new tutorial where I'm trying to document the exploration precess (idea -> experiment -> early results). I'd really appreciate your feedback!
+  
+  [![Watch the video](https://img.youtube.com/vi/i59K8UT9UK4/hqdefault.jpg)](https://youtu.be/i59K8UT9UK4)
+  
+  [final colab code](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/noise_controlled_nca.ipynb)
+  
+  - **MΞMO AKTEN**: AFAIU noise amt is essentially a conditioning signal. In fact have you already tried any arbitrary (real valued?) signal? i.e. 0=> bubbles, 1=> tiles, & then vary this signal spatially & temporally? in this case Up pointing backhand index, it's still one (albeit parametrized) neural controller shared by all agents. Of course broader question is :), have you had a chance to try Neural CA w two populations of agents (coop and/or competitive) with one controller per population (but trained together)?
+
+  - **Scott Condron**: I don’t think there’s enough of these types of videos where you’re brought through the process of experimentation. I personally would enjoy a distill-style post about this, but just the video and colab get the ideas across without it. As for future ideas, I thought the way the bubble stayed intact over the noise boundary was surprising and could be interesting to study further. Is there certain patterns that are more robust than others? Can you encourage that robustness through training?
+    - **Alex Mordvintsev**: I began with training a noise-robust CA, then switched to noise-controlled. I think there are so many curious aspects that deserve deeper study about these models, that I decided to do tutorials to show how to do that, rather than have all fun myself and never release most it. I'm thinking about making a few more small tutorials and then combining them into more in-depth article.
+  
+  reference: https://twitter.com/zzznah/status/1432322113856229379?s=20
