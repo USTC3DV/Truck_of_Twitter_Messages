@@ -131,7 +131,6 @@ https://www.youtube.com/watch?v=aboFl5ozImM
   
   project page:https://shuaifengzhi.com/Semantic-NeRF/
 
-  - <video src="https://shuaifengzhi.com/Semantic-NeRF/img/VS_room2.mp4"></video>
 
   - **Andrew Davison**: Of course this is just the beginning of potential more general use of neural implicit models to represent scene properties, such as surface properties or affordances which could be very useful in robotics.
   
