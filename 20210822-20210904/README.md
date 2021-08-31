@@ -53,7 +53,17 @@ https://www.youtube.com/watch?v=9mOX_JbVTNY&ab_channel=INISeminarRoom1
 ##### 几何深度学习算法
 
 ***
+#### Advances in Neural Rendering is now freely available on YouTube
 
+##### original twitter link（from Justus Thies）:
+https://twitter.com/JustusThies/status/1431291841404719109
+
+##### video page
+https://www.youtube.com/watch?v=otly9jcZ0Jg
+https://www.youtube.com/watch?v=aboFl5ozImM
+
+##### 神经渲染前沿介绍视频公开![Image](https://pbs.twimg.com/media/E9z3WO1WQAMz5FZ?format=jpg&name=900x900)
+***
 
 
 
