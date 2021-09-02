@@ -181,3 +181,37 @@ https://www.youtube.com/watch?v=aboFl5ozImM
     - **Alex Mordvintsev**: I began with training a noise-robust CA, then switched to noise-controlled. I think there are so many curious aspects that deserve deeper study about these models, that I decided to do tutorials to show how to do that, rather than have all fun myself and never release most it. I'm thinking about making a few more small tutorials and then combining them into more in-depth article.
   
   reference: https://twitter.com/zzznah/status/1432322113856229379?s=20
+
+***
+##### [Kangxue Yin](https://twitter.com/kangxue_yin)
+
+**3DStyleNet**
+
+Excited to share [#3DStyleNet](https://twitter.com/hashtag/3DStyleNet?src=hashtag_click), a Neural Style Transfer method for 3D Shapes!  The work is accepted to [#ICCV2021](https://twitter.com/hashtag/ICCV2021?src=hashtag_click) as an oral presentation. 
+
+arXiv:  [https://arxiv.org/abs/2108.12958](https://t.co/V34VYVNK1L?amp=1) 
+
+Project page: [https://nv-tlabs.github.io/3DStyleNet/](https://t.co/dSuOYsMPwj?amp=1)
+
+<div align=center><img src="https://nv-tlabs.github.io/3DStyleNet/assets/teaser.jpg" alt="Cover" width="75%"/></div>
+
+
+
+reference:https://twitter.com/kangxue_yin/status/1432833663453040643
+
+***
+
+[NAVER LABS Europe](https://twitter.com/naverlabseurope)
+
+Just released !- largest indoor localization dataset with 130K images (5 datasets). Captured with [@NAVERLABSHQ](https://twitter.com/NAVERLABSHQ)
+
+ techno & available in unified data format 'kapture'. 
+
+Datasets: [https://naverlabs.com/en/datasets](https://t.co/uytql7Al4c?amp=1) 
+
+CVPR21 paper: [https://bit.ly/3ymnmVY](https://t.co/35kq79eSF7?amp=1)
+
+
+
+reference:https://twitter.com/naverlabseurope/status/1395255973862940672
+
