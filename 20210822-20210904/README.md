@@ -133,9 +133,9 @@ https://www.youtube.com/watch?v=aboFl5ozImM
 
 
   - **Andrew Davison**: Of course this is just the beginning of potential more general use of neural implicit models to represent scene properties, such as surface properties or affordances which could be very useful in robotics.
-  
+
   reference:https://twitter.com/AjdDavison/status/1430884726705901568
-  
+
 - ##### [TensorFlow](https://twitter.com/TensorFlow)
   **MoveNet is now on mobile!**
   
@@ -182,36 +182,44 @@ https://www.youtube.com/watch?v=aboFl5ozImM
   
   reference: https://twitter.com/zzznah/status/1432322113856229379?s=20
 
-***
-##### [Kangxue Yin](https://twitter.com/kangxue_yin)
+- ##### [Kangxue Yin](https://twitter.com/kangxue_yin)
 
-**3DStyleNet**
+  **3DStyleNet**
 
-Excited to share [#3DStyleNet](https://twitter.com/hashtag/3DStyleNet?src=hashtag_click), a Neural Style Transfer method for 3D Shapes!  The work is accepted to [#ICCV2021](https://twitter.com/hashtag/ICCV2021?src=hashtag_click) as an oral presentation. 
+  Excited to share [#3DStyleNet](https://twitter.com/hashtag/3DStyleNet?src=hashtag_click), a Neural Style Transfer method for 3D Shapes!  The work is accepted to [#ICCV2021](https://twitter.com/hashtag/ICCV2021?src=hashtag_click) as an oral presentation. 
 
-arXiv:  [https://arxiv.org/abs/2108.12958](https://t.co/V34VYVNK1L?amp=1) 
+  arXiv:  [https://arxiv.org/abs/2108.12958](https://t.co/V34VYVNK1L?amp=1) 
 
-Project page: [https://nv-tlabs.github.io/3DStyleNet/](https://t.co/dSuOYsMPwj?amp=1)
+  Project page: [https://nv-tlabs.github.io/3DStyleNet/](https://t.co/dSuOYsMPwj?amp=1)
 
 <div align=center><img src="https://nv-tlabs.github.io/3DStyleNet/assets/teaser.jpg" alt="Cover" width="75%"/></div>
 
 
 
-reference:https://twitter.com/kangxue_yin/status/1432833663453040643
-
-***
-
-[NAVER LABS Europe](https://twitter.com/naverlabseurope)
-
-Just released !- largest indoor localization dataset with 130K images (5 datasets). Captured with [@NAVERLABSHQ](https://twitter.com/NAVERLABSHQ)
-
- techno & available in unified data format 'kapture'. 
-
-Datasets: [https://naverlabs.com/en/datasets](https://t.co/uytql7Al4c?amp=1) 
-
-CVPR21 paper: [https://bit.ly/3ymnmVY](https://t.co/35kq79eSF7?amp=1)
+  reference:https://twitter.com/kangxue_yin/status/1432833663453040643
 
 
+- ##### [NAVER LABS Europe](https://twitter.com/naverlabseurope)
 
-reference:https://twitter.com/naverlabseurope/status/1395255973862940672
+  Just released !- largest indoor localization dataset with 130K images (5 datasets). Captured with [@NAVERLABSHQ](https://twitter.com/NAVERLABSHQ)
+
+  techno & available in unified data format 'kapture'. 
+
+  Datasets: [https://naverlabs.com/en/datasets](https://t.co/uytql7Al4c?amp=1) 
+
+  CVPR21 paper: [https://bit.ly/3ymnmVY](https://t.co/35kq79eSF7?amp=1)
+
+  reference:https://twitter.com/naverlabseurope/status/1395255973862940672
+
+- ##### [Tomasz Malisiewicz](https://twitter.com/quantombone)
+
+  **What You Can Learn by Staring at a Blank Wall**
+  
+  arxiv: What You Can Learn by Staring at a Blank Wall
+  
+  This #computervision paper from @MIT_vision introduces a passive non-line-of-sight method that infers the number of people or activity of a person from the observation of a blank wall in an unknown room.
+  
+    <div align=center><img src="https://pbs.twimg.com/media/E-FX4O0XEAI1KJa?format=jpg" alt="Cover" width="75%"/></div>
+
+- ##### [Daniele Panozzo](https://twitter.com/DanielePanozzo)
 
