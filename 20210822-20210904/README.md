@@ -213,12 +213,12 @@ https://www.youtube.com/watch?v=aboFl5ozImM
   
   arxiv: [arxiv.org/abs/2108.13027](https://t.co/LzmwOJXZW3?amp=1) 
   
-  This #computervision paper from @MIT_vision introduces a passive non-line-of-sight method that infers the number of people or activity of a person from the observation of a blank wall in an unknown room.
+  This [#computervision](https://twitter.com/hashtag/computervision?src=hashtag_click) paper from [@MIT_vision](https://twitter.com/MIT_vision) introduces a passive non-line-of-sight method that infers the number of people or activity of a person from the observation of a blank wall in an unknown room.
   
     <div align=center><img src="https://pbs.twimg.com/media/E-FX4O0XEAI1KJa?format=jpg" alt="Cover" width="75%"/></div>
 
 - ##### [Daniele Panozzo](https://twitter.com/DanielePanozzo)
   Are you developing new data-driven algorithms to simulate physical systems? Check out our new dataset generator and benchmark! We discovered that outperforming classical time integrator algorithms is not easy even with large datasets. 
-  @NeurIPSConf[https://arxiv.org/abs/2108.07799]
+  [@NeurIPSConf](https://twitter.com/NeurIPSConf)[https://arxiv.org/abs/2108.07799]
 
     <div align=center><img src="https://pbs.twimg.com/media/E-Egrq_WQAcP4Id?format=jpg" alt="Cover" width="75%"/></div>
