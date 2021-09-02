@@ -221,4 +221,4 @@ https://www.youtube.com/watch?v=aboFl5ozImM
   Are you developing new data-driven algorithms to simulate physical systems? Check out our new dataset generator and benchmark! We discovered that outperforming classical time integrator algorithms is not easy even with large datasets. 
   @NeurIPSConf[https://arxiv.org/abs/2108.07799]
 
-![Image](https://pbs.twimg.com/media/E-Egrq_WQAcP4Id?format=jpg&name=360x360)
+    <div align=center><img src="https://pbs.twimg.com/media/E-Egrq_WQAcP4Id?format=jpg" alt="Cover" width="75%"/></div>
