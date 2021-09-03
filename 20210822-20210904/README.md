@@ -14,7 +14,13 @@
   
   reference: https://twitter.com/MattNiessner/status/1429856784420900868?s=20
   
-  
+ - **关于期刊投稿**
+ 
+   [Keenan Crane](https://twitter.com/keenanisalive)
+   
+   PSA: If you're waiting many months for a review to come back from ACM Transactions on Graphics (and, I suspect, many other journals), you can and should politely nudge the Editor in Chief.  TOG reviews are supposed to take only 1 month, and the EiC already knows the author names.
+   
+   reference: https://twitter.com/keenanisalive/status/1433422779311869957?s=20
   
 ***
 ### 课程和报告分享
@@ -63,8 +69,9 @@ https://www.youtube.com/watch?v=otly9jcZ0Jg
 https://www.youtube.com/watch?v=aboFl5ozImM
 
 ##### 神经渲染前沿介绍视频公开![Image](https://pbs.twimg.com/media/E9z3WO1WQAMz5FZ?format=jpg&name=900x900)
-***
 
+***
+#### creating yarn art in using Metropolis-Hastings sampling
 
 
 ### 成果推荐及讨论
