@@ -23,7 +23,7 @@
    reference: https://twitter.com/keenanisalive/status/1433422779311869957?s=20
   
 ***
-- ##### 审稿相关
+ - **审稿相关**
 
   [Kosta Derpanis](https://twitter.com/CSProfKGD)
   **As a reviewer, it is insufficient to simply state a paper lacks novelty. This is a lazy response and disrespectful to the authors’ efforts. The onus is on you, the reviewer, to point to specific papers and draw connections to substantiate your novelty claim.**
