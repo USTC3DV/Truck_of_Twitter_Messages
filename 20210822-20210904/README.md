@@ -308,7 +308,7 @@ reference:https://twitter.com/richardzhangsfu/status/1433934224743043073
   
   We present Self-Calibrating NeRF! NeRF learns the geometry of 3D space end-to-end. However, we show that we can learn not just the geometry, but camera intrinsics, poses, as well as non-linear complex camera model without any calibration patterns. 
   
- github:https://t.co/nIqEWJpgI4?amp=1
+  github:https://t.co/nIqEWJpgI4?amp=1
  
 - ##### [Tomasz Malisiewicz](https://twitter.com/quantombone)
   
