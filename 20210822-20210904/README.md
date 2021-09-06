@@ -23,6 +23,19 @@
    reference: https://twitter.com/keenanisalive/status/1433422779311869957?s=20
   
 ***
+- ##### 审稿相关
+
+  [Kosta Derpanis](https://twitter.com/CSProfKGD)
+  **As a reviewer, it is insufficient to simply state a paper lacks novelty. This is a lazy response and disrespectful to the authors’ efforts. The onus is on you, the reviewer, to point to specific papers and draw connections to substantiate your novelty claim.**
+
+  **Arash Vahdat**:When I get a review like that I'm dying to say: "please let us know which prior work is threatening our novelty." Everything becomes obvious after reading a well-written paper. But that doesn't mean that the paper is less novel.
+
+  **Victor Escorcia**:Agree and good tips. Now,
+  1)Why aren't ACs & reviewers affected by tolerating / doing that kind of stuff? 
+  2)What about rating ACs and reviewers? Scores could be used for other conferences and editions.
+
+​       reference:https://twitter.com/CSProfKGD/status/1433872171441479684
+***
 ### 课程和报告分享
 
 #### Symposium on Computer Animation 2021
