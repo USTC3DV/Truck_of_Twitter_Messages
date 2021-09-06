@@ -37,6 +37,14 @@
 
   reference: https://twitter.com/MattNiessner/status/1434504873073156105?s=20
   
+- **对审稿机制的提问**
+
+  [Andrea Tagliasacchi](https://twitter.com/taiyasaki)
+  
+  So my question is, is @openreviewnet going so survey reviewers/authors to try to improve their system? And what's the improvements that are being currently being engineered? I'd gladly contribute $$ to see it improve in time.
+  
+  reference: https://twitter.com/taiyasaki/status/1434188996377145347?s=20
+  
 ***
 ### 课程和报告分享
 
