@@ -33,8 +33,8 @@
   **Victor Escorcia**:Agree and good tips. Now,
   1)Why aren't ACs & reviewers affected by tolerating / doing that kind of stuff? 
   2)What about rating ACs and reviewers? Scores could be used for other conferences and editions.
-
-​       reference:https://twitter.com/CSProfKGD/status/1433872171441479684
+  
+  reference:https://twitter.com/CSProfKGD/status/1433872171441479684
 
  - **如何准备CV**
   
@@ -42,9 +42,9 @@
   
   **How to prepare your Curriculum Vitae?**
 
-  Your curriculum vitae (Latin for "course of life") is the most important document Scroll for all sorts of career opportunities. But not all students have access to resources for learning to write a good CV.
+  Your curriculum vitae (Latin for "course of life") is the most important document for all sorts of career opportunities. But not all students have access to resources for learning to write a good CV.
 
-  Check out the thread Threadbelow!
+  Check out the thread below!
   
   **Include a photo of yourself?**
   
@@ -78,7 +78,7 @@
   
   Many student-led organization offer help to review and provide feedback on your CV and other application material (particularly for graduate school applications). Check them out before you submit the application!
   
-  
+  reference:https://twitter.com/jbhuang0604/status/1433651161882669078
 ### 课程和报告分享
 
 #### Symposium on Computer Animation 2021
@@ -285,7 +285,7 @@ https://www.youtube.com/watch?v=aboFl5ozImM
   [@NeurIPSConf](https://twitter.com/NeurIPSConf)[https://arxiv.org/abs/2108.07799]
 
     <div align=center><img src="https://pbs.twimg.com/media/E-Egrq_WQAcP4Id?format=jpg" alt="Cover" width="75%"/></div>
-***
+    
 - ##### [Hao (Richard) Zhang](https://twitter.com/richardzhangsfu)
 
 Neural Marching Cubes will be presented at [SIGGRAPHAsia](https://twitter.com/SIGGRAPHAsia)
