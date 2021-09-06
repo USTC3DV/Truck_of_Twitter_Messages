@@ -22,7 +22,6 @@
    
    reference: https://twitter.com/keenanisalive/status/1433422779311869957?s=20
   
-***
  - **审稿相关**
 
   [Kosta Derpanis](https://twitter.com/CSProfKGD)
@@ -78,7 +77,8 @@
   **Seek feedback**
   
   Many student-led organization offer help to review and provide feedback on your CV and other application material (particularly for graduate school applications). Check them out before you submit the application!
--
+  
+  
 ### 课程和报告分享
 
 #### Symposium on Computer Animation 2021
@@ -311,7 +311,6 @@ reference:https://twitter.com/richardzhangsfu/status/1433934224743043073
  github:https://t.co/nIqEWJpgI4?amp=1
  
  <div align=center><img src="https://twitter.com/ChrisChoy208/status/1433629560273211403/photo/1" alt="Cover" width="75%"/></div>
- 
 - ##### [Tomasz Malisiewicz](https://twitter.com/quantombone)
   
   NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo 
