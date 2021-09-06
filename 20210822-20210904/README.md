@@ -229,3 +229,21 @@ https://www.youtube.com/watch?v=aboFl5ozImM
   [@NeurIPSConf](https://twitter.com/NeurIPSConf)[https://arxiv.org/abs/2108.07799]
 
     <div align=center><img src="https://pbs.twimg.com/media/E-Egrq_WQAcP4Id?format=jpg" alt="Cover" width="75%"/></div>
+***
+- ##### [Hao (Richard) Zhang](https://twitter.com/richardzhangsfu)
+
+Neural Marching Cubes will be presented at [SIGGRAPHAsia](https://twitter.com/SIGGRAPHAsia)
+
+Code is available below.
+
+ Abs: [https://arxiv.org/abs/2106.11272](https://t.co/3iD9fDI4Ks?amp=1) 
+
+Code: [https://github.com/czq142857/NMC](https://t.co/IBsPYSrhQu?amp=1) 
+
+Paper: [https://www2.cs.sfu.ca/~haoz/pubs/chen_2021_nmc.pdf](https://t.co/nsExLhCGIi?amp=1)
+
+<div align=center><img src="https://pbs.twimg.com/media/E5TxLtkUUAAah0x?format=jpg&name=large" alt="Cover" width="75%"/></div>
+
+a data-driven approach for extracting a triangle mesh from a discretized implicit field. NMC recovers sharp edges, a long-standing issue of MC and variants, and reconstructs local mesh topologies more accurately.
+
+reference:https://twitter.com/richardzhangsfu/status/1433934224743043073
