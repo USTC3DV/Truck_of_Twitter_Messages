@@ -41,9 +41,9 @@
   [Jia-Bin Huang](https://twitter.com/jbhuang0604)
   
   **How to prepare your Curriculum Vitae?**
-
+  
   Your curriculum vitae (Latin for "course of life") is the most important document for all sorts of career opportunities. But not all students have access to resources for learning to write a good CV.
-
+  
   Check out the thread below!
   
   **Include a photo of yourself?**
@@ -60,16 +60,16 @@
   
   **Provide context**
   
-  Include background information to help the readers (e.g., admission committee) understand your achievement. Some examples: rank X (out of how many)? GPA X (equivalence in 4.0 scale?), accuracy of 95% (on what task? and how well does baseline work?).
+  nclude background information to help the readers (e.g., admission committee) understand your achievement. Some examples: rank X (out of how many)? GPA X (equivalence in 4.0 scale?), accuracy of 95% (on what task? and how well does baseline work?).
   
   **Describe your work**
   
-  In each of your project, talk about (1) what the problem is? (2) what did you do? and (3) what the impact/results are? Most of the time (3) is missing. It's hard for people to judge the significance of your work without (3).
+  In each of your project, talk about (1) what the problem is? (2) what did you do? and (3) what the impact/results are? Most of the time (3) is missing. It's hard for people to judge the significance of your work without (3)
   
   **Pick a good LaTeX template**
   
   Pick a visually pleasing template to work with. Usually there is no page limit for your CV. Don't sacrifice readability by squeezing contents into 1-2 pages.
-
+  
   **Self-rate skills?**
   
   Listing your skills is fine, but I don't really know what "4.2 stars Python" or "3.5 stars C++" on your CV mean.
