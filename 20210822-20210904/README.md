@@ -36,7 +36,49 @@
   2)What about rating ACs and reviewers? Scores could be used for other conferences and editions.
 
 ​       reference:https://twitter.com/CSProfKGD/status/1433872171441479684
-***
+
+ - **如何准备CV**
+  
+  [Jia-Bin Huang](https://twitter.com/jbhuang0604)
+  
+  **How to prepare your Curriculum Vitae?**
+
+  Your curriculum vitae (Latin for "course of life") is the most important document Scroll for all sorts of career opportunities. But not all students have access to resources for learning to write a good CV.
+
+  Check out the thread Threadbelow!
+  
+  **Include a photo of yourself?**
+  
+  Be aware of the culture differences when it comes to including a headshot photo in your CV. It may be standard in your regions (e.g., Europe, Asia), but it's weird if you are applying positions in US and UK (for anti-discrimination reasons).
+  
+  **Add hyperlinks**
+  
+  It's 2021. Don't treat your CV as a plain text document. Add hyperlinks throughout your CV and make it easy for the readers to learn more about you and your work, e.g., personal website, email, project page, paper link, videos, and code on GitHub.
+  
+  **Make good tables**
+  
+  Tables are great for presenting structured data (e.g., your education/work history). But spend some time learning to make a one.
+  
+  **Provide context**
+  
+  Include background information to help the readers (e.g., admission committee) understand your achievement. Some examples: rank X (out of how many)? GPA X (equivalence in 4.0 scale?), accuracy of 95% (on what task? and how well does baseline work?).
+  
+  **Describe your work**
+  
+  In each of your project, talk about (1) what the problem is? (2) what did you do? and (3) what the impact/results are? Most of the time (3) is missing. It's hard for people to judge the significance of your work without (3).
+  
+  **Pick a good LaTeX template**
+  
+  Pick a visually pleasing template to work with. Usually there is no page limit for your CV. Don't sacrifice readability by squeezing contents into 1-2 pages.
+
+  **Self-rate skills?**
+  
+  Listing your skills is fine, but I don't really know what "4.2 stars Python" or "3.5 stars C++" on your CV mean.
+  
+  **Seek feedback**
+  
+  Many student-led organization offer help to review and provide feedback on your CV and other application material (particularly for graduate school applications). Check them out before you submit the application!
+-
 ### 课程和报告分享
 
 #### Symposium on Computer Animation 2021
@@ -261,3 +303,19 @@ Paper: [https://www2.cs.sfu.ca/~haoz/pubs/chen_2021_nmc.pdf](https://t.co/nsExLh
 a data-driven approach for extracting a triangle mesh from a discretized implicit field. NMC recovers sharp edges, a long-standing issue of MC and variants, and reconstructs local mesh topologies more accurately.
 
 reference:https://twitter.com/richardzhangsfu/status/1433934224743043073
+
+- ##### [Chris Choy](https://twitter.com/ChrisChoy208)
+  
+  We present Self-Calibrating NeRF! NeRF learns the geometry of 3D space end-to-end. However, we show that we can learn not just the geometry, but camera intrinsics, poses, as well as non-linear complex camera model without any calibration patterns. 
+  
+ github:https://t.co/nIqEWJpgI4?amp=1
+ 
+ <div align=center><img src="https://twitter.com/ChrisChoy208/status/1433629560273211403/photo/1" alt="Cover" width="75%"/></div>
+ 
+- ##### [Tomasz Malisiewicz](https://twitter.com/quantombone)
+  
+  NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo 
+  
+  arxiv:https://t.co/sfQsB3OXtY?amp=1
+  
+  <div align=center><img src="https://pbs.twimg.com/media/E-Uo2lcWYAYvepf?format=jpg&name=small" alt="Cover" width="75%"/></div>
