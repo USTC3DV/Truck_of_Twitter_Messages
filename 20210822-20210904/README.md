@@ -22,6 +22,21 @@
    
    reference: https://twitter.com/keenanisalive/status/1433422779311869957?s=20
   
+- **关于AI技术的思考**
+
+  [Matthias Niessner](https://twitter.com/MattNiessner)
+  
+  There's still this illusion that "AI" is somewhat intelligent: these are models fitted to large datasets using non-linear optimizations, hoping to replicate their distributions. While these are incredibly useful tools, there is nothing we would consider human-like intelligence.
+  
+  - **Theodore Galanos:** GPT3 has definitely shown instances of human-like intelligence, although I doubt that qualification is all important for AGI. I agree it's not specifically the model or the architecture but I do entirely believe it is the 'large datasets',  specifically the language ones.
+    - **John Manoochehri:** inb4 it's like something computational which we have detected in human intelligence.
+    - **Theodore Galanos:** Very far from an expert, my view is generalization to, if not arbitrary, rather novel downstream tasks with very little experience (and I believe generalization is a standard aspect of human intelligence?). Few-shot, zero-shot, prompt engineering, have shown glimpses of that.
+    - **John Manoochehri:** Except it's the opposite: all the ML training req'd is exactly what we have to assume humans don't have, at least in the very prominent case of language acquisition.
+  
+  - **Zayd:** True intelligence is the unsupervised learning. GPT-3 is good at data (and combinations of) it has seen. It can't go beyond that.
+
+  reference: https://twitter.com/MattNiessner/status/1434504873073156105?s=20
+  
 ***
 ### 课程和报告分享
 
