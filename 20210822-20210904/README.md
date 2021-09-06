@@ -310,7 +310,6 @@ reference:https://twitter.com/richardzhangsfu/status/1433934224743043073
   
  github:https://t.co/nIqEWJpgI4?amp=1
  
- <div align=center><img src="https://twitter.com/ChrisChoy208/status/1433629560273211403/photo/1" alt="Cover" width="75%"/></div>
 - ##### [Tomasz Malisiewicz](https://twitter.com/quantombone)
   
   NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo 
