@@ -1,5 +1,4 @@
 ### 意见性分享
-
 - **关于AI技术的思考**
 
   [Matthias Niessner](https://twitter.com/MattNiessner)
