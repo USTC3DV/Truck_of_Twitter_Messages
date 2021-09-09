@@ -49,7 +49,7 @@
 
    <div align=center><img src="https://www.mmlab-ntu.com/project/texformer/img/ex1.gif" alt="Cover" width="25%"/></div>  
    
-   reference: https://twitter.com/ccloy/status/1435192176577695746
+  reference: https://twitter.com/ccloy/status/1435192176577695746
 
 - ##### Robot of Boston Dynamics
 
