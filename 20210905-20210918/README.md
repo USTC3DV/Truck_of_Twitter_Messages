@@ -25,7 +25,16 @@
   
 ***
 ### 课程和报告分享
+- ##### 视觉SLAM的应用
 
+  [SLAMcore Limited](https://twitter.com/SLAMcoreLtd)
+  
+  New Tutorial! Add Visual SLAM capabilities to ROS1 Navigation Stack. Test Spatial Intelligence on new or existing #robots with simple ROS integration with SLAMcore algorithms. #ROS #VisualSLAM #Navigation #tutorial
+  
+  - **Andrew Davison:** New tutorial on how to easily integrate SLAMcore's visual SLAM SDK with the ROS1 Navigation Stack.
+
+  reference: https://twitter.com/SLAMcoreLtd/status/1435566081511395333?s=20
+  
 ***
 ### 成果推荐及讨论
 - ##### 3D Human texture estimation
@@ -39,4 +48,12 @@
 <div align=center><img src="https://www.mmlab-ntu.com/project/texformer/img/ex1_in.png" alt="Cover" width="10%"/></div>
 
    <div align=center><img src="https://www.mmlab-ntu.com/project/texformer/img/ex1.gif" alt="Cover" width="25%"/></div>  
-   reference:https://twitter.com/ccloy/status/1435192176577695746
+   reference: https://twitter.com/ccloy/status/1435192176577695746
+
+- ##### Robot of Boston Dynamics
+
+  [Boston Dynamics](https://twitter.com/BostonDynamics)
+  
+  **Our partners at @UKAEAofficial and @CreatecCumbria brought Spot** to @SellafieldLtd to demonstrate how Spot can automate nuclear inspections, support decommissioning, and reduce risk for people in hazardous environments. Watch the full video: https://www.youtube.com/watch?v=hmDQTYNlG4c&ab_channel=Createc
+  
+  reference: https://twitter.com/BostonDynamics/status/1435589380438102019?s=20
