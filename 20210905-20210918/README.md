@@ -45,7 +45,7 @@
 
     Project page and code: [https://mmlab-ntu.com/project/texformer/](https://t.co/Dzqnc8hmzQ?amp=1)
 
-<div align=center><img src="https://www.mmlab-ntu.com/project/texformer/img/ex1_in.png" alt="Cover" width="10%"/></div>
+   <div align=center><img src="https://www.mmlab-ntu.com/project/texformer/img/ex1_in.png" alt="Cover" width="10%"/></div>
 
    <div align=center><img src="https://www.mmlab-ntu.com/project/texformer/img/ex1.gif" alt="Cover" width="25%"/></div>  
    
