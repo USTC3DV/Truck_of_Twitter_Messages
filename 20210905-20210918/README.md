@@ -34,6 +34,20 @@
   - **Andrew Davison:** New tutorial on how to easily integrate SLAMcore's visual SLAM SDK with the ROS1 Navigation Stack.
 
   reference: https://twitter.com/SLAMcoreLtd/status/1435566081511395333?s=20
+
+***
+- ##### 并行计算讲座
+
+  [Kayvon Fatahalian](https://twitter.com/kayvonf)
+  
+  Next Thurs 11am PT I'll be giving a free lecture from my parallel computing class about why CPUs and GPUs are so fast. It will be live, synchronous, and include Q/A and small-group breakouts. 
+
+  Limited to first 500.
+  
+  Date and time:Fri, September 17, 2021 2:00 AM – 4:00 AM CST
+  registration web: https://www.eventbrite.com/e/sample-live-virtual-lecture-a-modern-multi-core-processor-tickets-170395993002
+
+  reference:https://twitter.com/kayvonf/status/1436212406196183045
   
   
 ***
