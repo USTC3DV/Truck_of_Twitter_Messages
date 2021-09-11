@@ -73,3 +73,23 @@
   **Our partners at @UKAEAofficial and @CreatecCumbria brought Spot** to @SellafieldLtd to demonstrate how Spot can automate nuclear inspections, support decommissioning, and reduce risk for people in hazardous environments. Watch the full video: https://www.youtube.com/watch?v=hmDQTYNlG4c&ab_channel=Createc
   
   reference: https://twitter.com/BostonDynamics/status/1435589380438102019?s=20
+  
+- ##### Facial Editing
+
+  [Ziwei Liu](https://twitter.com/liuziwei7)
+
+Our ICCV2021 paper "Talk-to-Edit: Fine-Grained Facial Editing via Dialog": 
+
+Website: [https://mmlab-ntu.com/project/talkedit/…](https://t.co/LR9EvT6WB6?amp=1) 
+
+Code: [https://github.com/yumingj/Talk-to-Edit…](https://t.co/j8GnBPavMt?amp=1) 
+
+Fine-grained attribute manipulation through interactive dialog.  
+
+CelebA-Dialog, a large-scale visual-language facial editing dataset.
+
+<div align=center><img src="https://pbs.twimg.com/media/E-5E3VWVQA40bWl?format=jpg&name=large" alt="Cover" width="75%"/></div>
+
+
+
+reference:https://twitter.com/liuziwei7/status/1436161234781421578
