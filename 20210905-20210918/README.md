@@ -35,7 +35,7 @@
 
   reference: https://twitter.com/SLAMcoreLtd/status/1435566081511395333?s=20
 
-***
+
 - ##### 并行计算讲座
 
   [Kayvon Fatahalian](https://twitter.com/kayvonf)
