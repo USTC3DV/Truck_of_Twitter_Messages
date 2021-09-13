@@ -93,3 +93,39 @@
 
 
   reference:https://twitter.com/liuziwei7/status/1436161234781421578
+  
+- ##### Fast Volume Rendering
+
+  [Daqi Lin](https://twitter.com/DaqiLin)
+  
+  I'm excited to share our SIGGRAPH Asia 2021 paper Fast Volume Rendering with Spatiotemporal Reservoir Resampling (Volumetric ReSTIR). This a collaboration between Utah Graphics Lab @cem_yuksel and NVIDIA @_cwyman_. We introduce fast volume rendering with spatiotemporal reservoir resampling to achieve low-noise, interactive volumetric path tracing in complex scenes with arbitrary dynamic lighting, volumetric emission, and volume animations.
+  
+  <div align=center><img src="https://pbs.twimg.com/media/E-973L5VIAE6jmG?format=jpg&name=large" alt="Cover" width="75%"/></div>
+  
+  Project Webpage: https://dqlin.xyz/pubs/2021-sa-VOR/
+  
+  reference: https://twitter.com/DaqiLin/status/1436503002265710593?s=20
+
+- ##### HyperNeRF
+
+  [Keunhong Park](https://twitter.com/KeunhongP)
+  
+  **Our code for HyperNeRF is now available!**
+  
+  Like Nerfies, we've included a Colab demo so that you can try out a basic version of our method right in your browser.
+  
+  We’ve enhanced the dataset processing Colab--it can now handle non-face sequences out of the box. Try it out on various scenes! Like before, the demo is limited by the lower-end GPUs and TPUs available through Colab. Check out the repository for instructions on how to train a fully-featured model on your own machines.
+  
+  Project Page: https://hypernerf.github.io/
+  
+  Github: https://github.com/google/hypernerf
+  
+  reference: https://twitter.com/KeunhongP/status/1436505902387843072?s=20
+  
+- ##### 3D reconstruction engine
+
+  [EveryPoint](https://twitter.com/EveryPointIO)
+  
+  Smash through Apple's 5 meter LiDAR limit! How did we do it? Our fusion 3D reconstruction engine leverages both photo based and LiDAR based processing. This is essential for capturing architectural exteriors. View it on Sketchfab: https://sketchfab.com/3d-models/salems-riverfront-carousel-building-ca2fdcf32a48475b8066fd6cbb358869
+  
+  reference: https://twitter.com/EveryPointIO/status/1436391883870142464?s=20
