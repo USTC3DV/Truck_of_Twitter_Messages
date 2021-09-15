@@ -158,3 +158,16 @@
   Smash through Apple's 5 meter LiDAR limit! How did we do it? Our fusion 3D reconstruction engine leverages both photo based and LiDAR based processing. This is essential for capturing architectural exteriors. View it on Sketchfab: https://sketchfab.com/3d-models/salems-riverfront-carousel-building-ca2fdcf32a48475b8066fd6cbb358869
   
   reference: https://twitter.com/EveryPointIO/status/1436391883870142464?s=20
+
+- ##### Quadrotor
+
+  [Davide Scaramuzza](https://twitter.com/davsca1)
+
+  I am excited to announce our latest work on #agile #quadrotor control under uncertainty. L1-NMPC allows us to fly high-speed trajectories with unknown payloads, including ice-cold beer!
+  
+  Paper: http://rpg.ifi.uzh.ch/docs/Arxiv21_L1_Drew.pdf
+  
+  Video: https://www.youtube.com/watch?v=8oB1rG5iYc4&ab_channel=UZHRoboticsandPerceptionGroup
+  
+  reference: https://twitter.com/davsca1/status/1437456243745042441?s=20
+  
