@@ -22,6 +22,35 @@
   
   reference: https://twitter.com/taiyasaki/status/1434188996377145347?s=20
   
+- **分析从学习到工作的转变**
+
+  [César A. Hidalgo](https://twitter.com/cesifoti)
+  
+  After advising PhD & Master students for over a decade, there is one thing I find most students need to unlearn: the half-ass work mentality acquired during years of tests and homework. Let me explain. 1/N
+  
+  For most of their education students are evaluated using tests & homework. We are all familiar with the process. The student is asked to do some work; they turn it in, and get a grade (eg a B+,B, A, etc.)  2/N
+  
+  But when they make it to grad school (or to their first job) it is quite different. Once they turn in work, they are not given a grade. They are given feedback and asked to do the work again. Sometimes several times. 3/N
+  
+  Many students struggle enormously with this change. They are not trained to do the same thing over and over until they get it right. They are trained to do better than average on their first try and to forget about what they did as soon as they turn their work in. 4/N
+  
+  So students show up with a first draft of a paper and tell you “I am done!” So you give them feedback and ask them to keep working on it. And you do this again, and again, and tension can begin to build. 5/N
+  
+  Some students struggle to understand this, and will keep the paper hostage for many months thinking: this time I will be really done (I'll get an A). 6/N
+  
+  At that point, I find it useful to have this conversation: “Look, the paper will need to go through 20 to 30 iterations to be completed. If each iteration takes 2 months, then we will be ready in more than three years. It is up to you.” 7/N
+
+  It is a tough aha moment that helps them realize work is always unfinished. You are there to help improve the work, not to grade it. And that only by iterating with others they will manage to make a sword out of the lump of steel. 8/N
+  
+  But I don't blame them. I also had to learn that lesson. Because most of us grow up in an educational system that grades us on our first try, instead of pushing us to do the same thing over multiple times. 9/N
+  
+  As an entrepreneur, I see this in my company as well, with young hires, which are trying to do “good enough” work and react against feedback. If they struggle to learn this lesson for too long, it is a bad sign. 10/N
+  
+  Could we prepare people better? I think so. Having some activities that do not end in a grade, but that are iterated through long periods of time should be something we could add to earlier stages of education. 11/N
+  
+  For the time being, if you are a student reading this. Know this is coming and prepare yourself for it. Also, if you don't encounter it, your mentors may not be helping you grow. Keep on at it. Great work is never finished, only improved gradually over time. /END
+  
+  reference: https://twitter.com/cesifoti/status/1437043299852996608?s=20
   
 ***
 ### 课程和报告分享
