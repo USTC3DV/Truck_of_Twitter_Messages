@@ -171,3 +171,12 @@
   
   reference: https://twitter.com/davsca1/status/1437456243745042441?s=20
   
+- ##### 3D Scanning via Smart Glassses
+
+  [EveryPoint](https://twitter.com/EveryPointIO)
+  
+  1.1 Million points from scanning with Ray-Bans?! Check out @jonstephens85 getting hands on with the new #RayBanStories. 3D Scanning is getting interesting! #3DScanning #3DModeling #SmartGlassses
+
+  - **Jonathan Stephens:** Sooooo many! Already brainstormed a few use cases for equipment inspection, product logging, etc. just the value of video with voice annotation is huge.
+
+  reference: https://twitter.com/EveryPointIO/status/1438647907951923202?s=20
