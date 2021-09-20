@@ -14,6 +14,54 @@
 
   reference: https://twitter.com/MattNiessner/status/1434504873073156105?s=20
   
+#### 如何找实习
+
+[Jia-Bin Huang](https://twitter.com/jbhuang0604)
+
+**How to find a research internship? Doing an internship helps**  
+
+**• expand your network** 
+
+**• explore new topics !**
+
+**• learn new research skills** 
+
+**• earn more money!**
+
+ **But how can we find good internship opportunities?**
+
+1.*Find a supportive advisor* 
+
+Choose an advisor that encourages/supports/allows students doing summer internships. Some may require you to work on funded projects during the summers or delay graduation should you do internships.  Reach out to prior students and learn more!
+
+2.*Stay connected*
+
+ Many internship opportunities are not broadcasted through public posting, but via emails among faculty members. Stay connected so that you get the best info (e.g., ask your friends/advisor forward relevant posting).
+
+3.*Get on Twitter* 
+
+There are many great internship (or jobs) opportunities advertised on Twitter.
+
+4.*Apply broadly* 
+
+You never know whether your expertise/interest match one of the teams in industrial labs (as their focuses may vary dramatically each year).  Remember, you cannot get an offer from a position you did not apply to!
+
+5.*Apply early* 
+
+Most of the positions are accepted *on a rolling basis*. If you apply late, you may find that most of the positions have been filled already.
+
+6.*Send cold emails* 
+
+If you find researchers whose interests match yours very well, don't be shy and send them cold emails! 
+
+More on cold emails: https://twitter.com/jbhuang0604/status/1420611695848869892
+
+7.*Extend and finish your project* 
+
+Summer went by very fast. Very ofter you will need a few extra months to finish the work and turn it into a good paper.  This involves your advisor's support, company policy (e.g. code/data release or IP), and immigration issues (e.g. CPT).
+
+reference:https://twitter.com/jbhuang0604/status/1438337355031719941  
+
 - **对审稿机制的提问**
 
   [Andrea Tagliasacchi](https://twitter.com/taiyasaki)
