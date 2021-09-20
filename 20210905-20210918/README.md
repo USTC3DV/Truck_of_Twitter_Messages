@@ -102,6 +102,19 @@ reference:https://twitter.com/jbhuang0604/status/1438337355031719941
   
 ***
 ### 课程和报告分享
+- ##### CS87渲染课程
+
+  original twitter link（from [Wojciech Jarosz](https://twitter.com/wkjarosz)）：
+
+  https://twitter.com/wkjarosz/status/1437282272663724039
+
+  webpage：
+
+  https://github.com/cs87-dartmouth/Fall2021
+
+  <div align=center><img src="https://pbs.twimg.com/media/E_JAnhiXsYEAvtd?format=jpg&name=4096x4096" alt="Cover" width="50%"/></div>
+
+
 - ##### 视觉SLAM的应用
 
   [SLAMcore Limited](https://twitter.com/SLAMcoreLtd)
