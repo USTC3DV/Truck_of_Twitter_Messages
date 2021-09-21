@@ -326,10 +326,10 @@ reference:https://twitter.com/jbhuang0604/status/1438337355031719941
   Beyond happy to announce our @ICCV_2021 Oral paper:"Panoptic Narrative Grounding"
   
   homepage: https://bcv-uniandes.github.io/panoptic-narrative-grounding/
-  
-   <div align=center><img src="https://pbs.twimg.com/media/E_UWSP1WEAoUJVt?format=png&name=small" alt="Cover" width="25%"/></div>  
+  8
+   <div align=center><img src="https://pbs.twimg.com/media/E_UWSP1WEAoUJVt?format=png&name=small" alt="Cover" width="80%"/></div>  
 
-   <div align=center><img src="https://pbs.twimg.com/media/E_UWc2MXIAY5QVl?format=jpg&name=small" alt="Cover" width="25%"/></div>  
+   <div align=center><img src="https://pbs.twimg.com/media/E_UWc2MXIAY5QVl?format=jpg&name=small" alt="Cover" width="80%"/></div>  
 
 - ##### Overparameterized Machine Learning
 
