@@ -20,3 +20,21 @@ http://physicsbaseddeeplearning.org/intro.html
 
 reference: https://twitter.com/CSProfKGD/status/1439929218851278850?s=20
 
+
+***
+### 成果推荐及讨论
+- ##### Torch.manual_seed(3407)
+
+  [Dmytro Mishkin](https://twitter.com/ducha_aiki)
+  
+  Torch.manual_seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision
+  
+  One can easily get +0.2 pp accuracy on ImageNet just by changing random seed. And much more on CIFAR10.
+  
+  ArXiv: https://arxiv.org/abs/2109.08203
+  
+  <div align=center><img src="https://pbs.twimg.com/media/E_tglAwXIAM5k0j?format=jpg&name=900x900" alt="Cover" width="50%"/></div>
+  
+  - **Dmytro Mishkin:** Similar study was published at #ICLR2016 workshop: Neural Network Training Variations in Speech and Subsequent Performance Evaluation (https://openreview.net/forum?id=OM0jKROjrFp57ZJjtNkv)
+
+  reference: https://twitter.com/ducha_aiki/status/1439850704559034369?s=20
