@@ -100,6 +100,75 @@ reference:https://twitter.com/jbhuang0604/status/1438337355031719941
   
   reference: https://twitter.com/cesifoti/status/1437043299852996608?s=20
   
+- **如何避免论文写作中的常见问题**
+
+  [Jia-Bin Huang](https://twitter.com/jbhuang0604)
+  
+  *Active voice*
+  Friends don’t let friends use passive voice!
+  Using passive voice hides the subject and creates ambiguous, indirect, and wordy sentences. Things don't "get done" by themselves. Take responsibility for what you do and use active voice whenever possible.
+  
+  *Statements in positive form*
+  Tell your readers "what is" instead of "what is not". 
+  not honest -> dishonest
+  did not remember -> forgot 
+  did not pay any attention to -> ignored 
+  did not have much confidence in -> distrusted
+  
+  *Which (non-restrictive) vs. That (restrictive)*
+  As a WHICH adjective clause is non-essential and non-defining, you go on a "which hunt" and break down long sentences with into simpler ones.
+  More on restrictive/non-restrictive adjective clauses: https://youtu.be/NjTM4booWHo
+  
+  *Respectively*
+  Do not ask your readers to solve mental correspondence  problems. Revise the sentence to get rid of "respectively". 
+  
+  *Fancy words*
+  I used to think using fancy words make the paper more "academic", but I now prefer simplicity and clarity.
+  
+  *Needless words*
+  Replacing needless words with simple ones!
+  
+  *Remove vague pronoun references*
+  Find and remove all the ambiguous pronoun references in your paper, e.g., that, this, it, these, those. 
+  Replace these vague pronoun references with SPECIFIC noun or noun phrase.
+  
+  *Few / A few / Quite a few*
+  Be specific about the quantity you intend to describe.
+  A few = Some (not many but some)
+  Few = "Only" a few (a small number of)
+  Quite a few = Many
+  
+  *Note that*
+  Avoid "Note that" and "It should be noted that." Readers don't like to be frequently reminded to pay attention.
+  
+  *Resources*
+  Check out many wonderful writing advices on the web!
+  http://jlakes.org/ch/web/The-elements-of-style.pdf
+  https://vision.sjtu.edu.cn/writing.html
+  https://taoxie.cs.illinois.edu/advice.htm
+  
+  *Case*
+  Often redundant!
+  Before: In many cases, the rooms lacked air conditioning. 
+  After: Many of the rooms lacked air conditioning. 
+  
+  Before: It has rarely been case that any mistake has been made. 
+  After: Few mistakes have been made.
+  
+  Source: The Elements of Style
+  
+  *However*
+  We often use "however" as "nevertheless/in spite of that" in a paper. Do NOT start with a sentence with however to avoid confusion. Why?
+  When starting with however, it means "in whatever manner/way" or "to whatever degree/extent".
+  
+  *Transitions*
+  Use transitions to connect sentences. 
+  • Space: above, below, inside 
+  • Cause and effect: as a result, because, since 
+  • Similarity: as, likewise, similarly
+  • Contrast: although, however, on the other hand, in contrast
+  Source: https://stanford.edu/class/ee267/WIM/writing_style_guide.pdf
+
 ***
 ### 课程和报告分享
 - ##### CS87渲染课程
@@ -138,6 +207,13 @@ reference:https://twitter.com/jbhuang0604/status/1438337355031719941
   registration web: https://www.eventbrite.com/e/sample-live-virtual-lecture-a-modern-multi-core-processor-tickets-170395993002
 
   reference:https://twitter.com/kayvonf/status/1436212406196183045
+
+- ##### 深度学习导引
+  [Sebastian Raschka](https://twitter.com/rasbt)
+  "Introduction to Deep Learning -- 170 Video Lectures from 𝐀daptive Linear Neurons to 𝐙ero-shot Classification with Transformers" 
+  Just organized all DL-related videos I recorded in 2021. Hoping it might be useful for one or the other person out there:
+  homepage：https://sebastianraschka.com/blog/2021/dl-course.html
+
   
   
 ***
@@ -153,7 +229,7 @@ reference:https://twitter.com/jbhuang0604/status/1438337355031719941
    <div align=center><img src="https://www.mmlab-ntu.com/project/texformer/img/ex1_in.png" alt="Cover" width="10%"/></div>
 
    <div align=center><img src="https://www.mmlab-ntu.com/project/texformer/img/ex1.gif" alt="Cover" width="25%"/></div>  
-   
+  
    reference: https://twitter.com/ccloy/status/1435192176577695746
 
 - ##### Robot of Boston Dynamics
@@ -183,7 +259,7 @@ reference:https://twitter.com/jbhuang0604/status/1438337355031719941
 
 
   reference:https://twitter.com/liuziwei7/status/1436161234781421578
-  
+
 - ##### Fast Volume Rendering
 
   [Daqi Lin](https://twitter.com/DaqiLin)
@@ -241,3 +317,26 @@ reference:https://twitter.com/jbhuang0604/status/1438337355031719941
   - **Jonathan Stephens:** Sooooo many! Already brainstormed a few use cases for equipment inspection, product logging, etc. just the value of video with voice annotation is huge.
 
   reference: https://twitter.com/EveryPointIO/status/1438647907951923202?s=20
+  
+- ##### Panoptic Narrative Grounding
+
+  [Jordi Pont-Tuset](https://twitter.com/jponttuset)
+  
+  Beyond happy to announce our @ICCV_2021 Oral paper:"Panoptic Narrative Grounding"
+  
+  homepage: https://bcv-uniandes.github.io/panoptic-narrative-grounding/
+  
+  
+
+![Image](https://pbs.twimg.com/media/E_UWSP1WEAoUJVt?format=png&name=small)
+
+![Image](https://pbs.twimg.com/media/E_UWc2MXIAY5QVl?format=jpg&name=small)
+
+- ##### Overparameterized Machine Learning
+
+  [Sebastian Raschka](https://twitter.com/rasbt)
+  "A Farewell to the Bias-Variance Tradeoff?An Overview of the Theory of Overparameterized Machine Learning" (https://arxiv.org/abs/2109.02355). Good reference and pointers for updating my model evaluation & bias-variance trade-off intro slides for teaching in a few weeks.
+  
+  
+  
+  ![Image](https://pbs.twimg.com/media/E_kRiDvXIAM5deY?format=jpg&name=900x900)
