@@ -210,6 +210,7 @@ reference:https://twitter.com/jbhuang0604/status/1438337355031719941
 
 - ##### 深度学习导引
   [Sebastian Raschka](https://twitter.com/rasbt)
+  
   "Introduction to Deep Learning -- 170 Video Lectures from 𝐀daptive Linear Neurons to 𝐙ero-shot Classification with Transformers" 
   Just organized all DL-related videos I recorded in 2021. Hoping it might be useful for one or the other person out there:
   homepage：https://sebastianraschka.com/blog/2021/dl-course.html
@@ -326,15 +327,14 @@ reference:https://twitter.com/jbhuang0604/status/1438337355031719941
   
   homepage: https://bcv-uniandes.github.io/panoptic-narrative-grounding/
   
-  
+   <div align=center><img src="https://pbs.twimg.com/media/E_UWSP1WEAoUJVt?format=png&name=small" alt="Cover" width="25%"/></div>  
 
-![Image](https://pbs.twimg.com/media/E_UWSP1WEAoUJVt?format=png&name=small)
-
-![Image](https://pbs.twimg.com/media/E_UWc2MXIAY5QVl?format=jpg&name=small)
+   <div align=center><img src="https://pbs.twimg.com/media/E_UWc2MXIAY5QVl?format=jpg&name=small" alt="Cover" width="25%"/></div>  
 
 - ##### Overparameterized Machine Learning
 
   [Sebastian Raschka](https://twitter.com/rasbt)
+  
   "A Farewell to the Bias-Variance Tradeoff?An Overview of the Theory of Overparameterized Machine Learning" (https://arxiv.org/abs/2109.02355). Good reference and pointers for updating my model evaluation & bias-variance trade-off intro slides for teaching in a few weeks.
   
   
