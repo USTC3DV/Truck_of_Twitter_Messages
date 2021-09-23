@@ -3,8 +3,11 @@
 #### 角度插值
   *Keenan Crane：If you need to interpolate rotations across space or time, there are much better options than Euler angles. 
   Here, rotations at the four corners are interpolated via the exp/log map.
+  
   Want to know more?
+  
   Some exercises: http://15462.courses.cs.cmu.edu/fall2021content/exercises/Exercises06.pdf
+  
   & solutions: http://15462.courses.cs.cmu.edu/fall2021content/exercises/Solutions06.pdf*
   
   - Keenan Crane:As long as you’re careful about sign, should be the same. Quaternions live in the 3-sphere S^3, which double covers the rotation group SO(3) and locally has the   same geometry. I like log because it naturally yields the smallest rotation & you don’t have to mess around with signs.
