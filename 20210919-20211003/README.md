@@ -95,4 +95,20 @@ reference: https://twitter.com/CSProfKGD/status/1439929218851278850?s=20
 
   reference: https://twitter.com/EveryPointIO/status/1441070951416799246?s=20
   
+- ##### Differentiable Rendering
+
+  [Wenzel Jakob](https://twitter.com/wenzeljakob)
   
+  Differentiable rendering of meshes tends to produce horrible, tangled geometry. We propose a simple and efficient way to fix this, to appear in SIGGRAPH Asia'21.
+  
+  Differentiable rendering can be surprisingly fragile whenever meshes are involved. A noisy gradient descent step is all it takes to turn the current reconstruction inside-out. The standard countermeasure for those kinds of problems is called Laplacian regularization.
+  
+  <div align=center><img src="https://pbs.twimg.com/media/E_-PsYeXMAAhwWu?format=jpg&name=4096x4096" alt="Cover" width="50%"/></div>
+  
+  Roughly speaking, a Laplacian regularizer wants each vertex to be at the center of its neighbors. This tightly couples the optimization variables, which is something that first-order methods like gradient descent really struggle with. Regularization is also always a compromise: we must give up on finding the best solution in exchange for one that is reasonably smooth. Our method addresses both of these limitations.
+  
+  The core idea is to go to second order (think: Newton's method) in the smoothness term, within an overall first-order optimization. The result can be interpreted as Sobolev preconditioned descent, or as a mesh reparameterization via @OlgaSorkineH's differential coordinates. The overhead of doing this is tiny compared to the rest of the differentiable rendering pipeline. Hooray! The paper and video are available here: https://rgl.epfl.ch/publications/Nicolet2021Large
+  
+  Disclaimer: Sobolev preconditioned gradient descent involving mesh energies has been used by others, in some cases decades ago. The contribution of this paper is to realize how useful such techniques can be for differentiable rendering, and to show how it all fits together.
+  
+  reference: https://twitter.com/wenzeljakob/status/1441030070240481283?s=20
