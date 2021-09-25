@@ -32,7 +32,7 @@
   reference: https://twitter.com/MattNiessner/status/1441027241870118913?s=20
   
 #### 角度插值
-  **Keenan Crane：** If you need to interpolate rotations across space or time, there are much better options than Euler angles. 
+  **Keenan Crane:** If you need to interpolate rotations across space or time, there are much better options than Euler angles. 
   Here, rotations at the four corners are interpolated via the exp/log map.
   
   Want to know more?
@@ -45,7 +45,11 @@
   - Jacopo Bertotolli:Euler angles have a nice and simple interpretation (rotation is a change in the third Euler angle, precession is a change in the first Euler angle, nutation is a change in the second Euler angle).Is there a simple interpretation for the exp/log map too?
   - Keenan Crane:Yep—check out the linked exercises.Exp map turns a rotation matrix into axis/angle of rotation.Log map turns axis/angle into a rotation matrix.(There’s also a beautiful geometric picture of Lie groups/Lie algebras not covered there.)
   
-
+#### 读博的意义
+  **Shreya Shankar:** my college friend who also just started her PhD said "some people leave their jobs to go backpacking around the world for a few years. that's basically us except we're doing mental backpacking" and i can't stop thinking about how true that is. also, both have extended periods of social isolation + involve repeatedly questioning the decision + sometimes lead to cool TED talks by the end!
+  
+  reference: https://twitter.com/sh_reya/status/1441194510738853897?s=20
+  
 ### 课程和报告分享
 
 #### Geometric deep learning lecture
@@ -112,3 +116,42 @@ reference: https://twitter.com/CSProfKGD/status/1439929218851278850?s=20
   Disclaimer: Sobolev preconditioned gradient descent involving mesh energies has been used by others, in some cases decades ago. The contribution of this paper is to realize how useful such techniques can be for differentiable rendering, and to show how it all fits together.
   
   reference: https://twitter.com/wenzeljakob/status/1441030070240481283?s=20
+
+- ##### Dense Prediction Transformers
+
+  [Alexey Bochkovskiy](https://twitter.com/alexeyab84)
+  
+  DPT (Dense Prediction Transformers) is accepted to ICCV2021 - State of the art Real-time (>30 FPS) neural network for Semantic segmentation and Mono-Depth estimation from one RGB image
+  
+  Paper: https://arxiv.org/abs/2103.13413
+  
+  Code: https://github.com/isl-org/MiDaS
+  
+  - **PYXIS Robocar:** Dear Alexey, Do you use a personal code to convert depth map into point cloud, or do you use a library like OPEN3D or PCL?
+    - Alexey Bochkovskiy: I used Open3D.
+  
+  reference: https://twitter.com/alexeyab84/status/1441393585836855313?s=20
+  
+- ##### Real-Time SLAM System
+
+  [Edgar Sucar](https://twitter.com/SucarEdgar)
+  
+  We will be presenting our new real-time SLAM system iMAP at #ICCV2021! With a neural implicit scene representation it can map scenes efficiently, fill holes, and jointly optimise the 3D map and camera poses.
+  
+  Project Page: https://edgarsucar.github.io/iMAP/
+  
+  - **Andrew Davison:** #ICCV2021, Dyson Robotics Lab at Imperial: iMAP is the first SLAM system based on continual, real-time learning of an implicit neural representation. In 3 minutes a 1MB MLP model captures global shape and detail, with convincing scene completion despite no prior training data.
+
+  reference: https://twitter.com/SucarEdgar/status/1441358051966013440?s=20
+  
+- ##### Differentiable Delaunay Triangulation
+
+  [GraphicsSurvey](https://twitter.com/GraphicsSurvey)
+  
+  Differentiable Delaunay Triangulation to convert 2D vertices into soft triangulation.
+  
+  It enables gradient descent for any per-vertex/face objectives such as minimization of triangle size.
+  
+  <div align=center><img src="https://pbs.twimg.com/media/FADFj3bUUAEuHAB?format=jpg&name=4096x4096" alt="Cover" width="50%"/></div>
+  
+  reference: https://twitter.com/GraphicsSurvey/status/1441372150535897093?s=20
