@@ -203,10 +203,14 @@ reference: https://twitter.com/CSProfKGD/status/1439929218851278850?s=20
 - ##### Pri3D code is released
 
   [Ji Hou](https://twitter.com/sekunde_)
-  
+
   Happy to release our Pri3D code and pre-trained models. Pre-training on 3D Priors helps 2D downstream tasks. 
   Code and pre-trained models: https://github.com/Sekunde/Pri3D
-  Video: https://youtube.com/watch?v=S2VodtyfQbQ![Pri3D](https://github.com/Sekunde/Pri3D/raw/main/assets/pri3d.jpg)
+  Video: https://youtube.com/watch?v=S2VodtyfQbQ
+
+  
+
+  ![Pri3D](https://github.com/Sekunde/Pri3D/raw/main/assets/pri3d.jpg)
 
 - ##### real-time SLAM system iMAP
 
@@ -219,8 +223,12 @@ reference: https://twitter.com/CSProfKGD/status/1439929218851278850?s=20
   [Rohit Jena](https://twitter.com/rohitrango)
   
   If you're attending MICCAI this year, be sure to check out our poster titled "Self-Supervised Vessel Enhancement Using Flow-Based Consistencies" on Sep 28 (Tuesday) from 14:00-15:30 EDT. Star-struck
+  
   Paper: https://arxiv.org/abs/2101.05145
+  
   Code: https://bit.ly/flow-seg
+  
+  
   
   
   
