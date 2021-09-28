@@ -1,5 +1,49 @@
 ### 意见性分享
 
+#### 如何让教授回复你的邮件
+
+[Jia-Bin Huang](https://twitter.com/jbhuang0604)
+
+**How do I get professors to answer my emails? You have sent SO MANY emails to professors for scheduling your prelim, looking for research opportunities, or asking questions about courses etc. But they just don't reply at all!** 
+
+**How do I get things done? A few tips below.**
+
+1.*Group scheduling*  Don't send out Doodle/When2meet with 30+ entries! Look up their (course) schedules and propose only a few (3-5) time slots.  If they need to spend 15 mins filling out your scheduling request, they will simply ignore your email.
+
+2.*Give them the control for planning their day*  Scheduling a meeting: Don't: When will you be available? Do: I am available ... Will you be available in one of the time slots? When you ask for availability, you are effectively asking for commitment for ALL of the time slots.
+
+3.*Calendar invite*  Once you scheduled a meeting. Please do send a calendar invite with all the required information (e.g., zoom link).  Whatever that's not on their calendar does not exist.
+
+4.*Go 90% and let them finish the 10%*  
+
+• Need a form? Pre-fill it as much as you can (you know their name and email).
+
+• Need a cover letter? Write a draft first. 
+
+• Need a ref. letter? Send an updated CV and SOP. 
+
+• Need to ask about a course? Read the syllabus first.
+
+5.*cc all parties involved*  Asking for some code/data/clarification? cc'ing your PI and their PI definitely helps you get a prompt reply!
+
+6.*Don't cc all parties involved* Don't send requests to MULTIPLE people in the same thread. Everyone will assume others will do it and therefore no one will do it. Send INDIVIDUAL emails instead.
+
+7.*One email one topic* Help your professors respond your email quickly. Make your emails simple, clear, and actionable.
+
+8.*Formatting* You are not writing in plain texts.  Formatting your email so that it's easy to read, e.g.,  
+
+• bullet points for parallel concepts 
+
+• bold font for highlighting 
+
+ • bold phrase for organizing your email 
+
+ • italic for sentence stress
+
+9.*Timeline* Provide specific action and specific date that the task needed to be completed. This helps them plan their schedule to make time for your requests.
+
+reference:https://twitter.com/jbhuang0604/status/1441548826645602309
+
 #### 手把手教你做深度学习研究
   **Matthias Niessner:** How to start a deep learning project?
   
