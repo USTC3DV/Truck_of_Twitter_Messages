@@ -116,6 +116,16 @@ http://physicsbaseddeeplearning.org/intro.html
 
 reference: https://twitter.com/CSProfKGD/status/1439929218851278850?s=20
 
+#### Urban Modeling (3DGV)
+
+#3DGV 3DGV welcomes topics on urban modeling. Our next speaker is Peter Wonka (KAUST). Talk title: "Modeling Urban Environments". Panelist: Yasutaka Furukawa (SFU).
+
+Link: https://www.youtube.com/watch?v=jsFztFXiPTM&ab_channel=3DGVSeminar
+
+9/29 9:00 am (Pacific) 9/29 19:00 pm (Thuwal)
+
+reference: https://twitter.com/qixing_huang/status/1442929109038862337?s=20
+
 
 ***
 ### 成果推荐及讨论
@@ -228,8 +238,42 @@ reference: https://twitter.com/CSProfKGD/status/1439929218851278850?s=20
   
   Code: https://bit.ly/flow-seg
   
-  
-  
-  
-  
   ![img](https://pbs.twimg.com/card_img/1440637485449576454/Zv92MBE-?format=jpg&name=900x900)
+  
+- ##### 3D representation
+
+  [Andrea Tagliasacchi](https://twitter.com/taiyasaki)
+  
+  Sun et al. "Canonical Capsules: Unsupervised Capsules in Canonical Pose"
+  
+  A network design that realizes the concept of "mental picture" for unsupervised 3D deep learning.
+  
+  This representation enables state-of-the-art results across a number of applications, such as  canonicalization (i.e. registration), reconstruction (i.e. auto-encoding), as well as unsupervised classification.
+  
+  project page: https://canonical-capsules.github.io/
+  
+  - **Geoffrey Hinton:** Finding the natural parts of an object and their intrinsic coordinate frames without supervision is a crucial step in learning to parse images into part-whole hierarchies. If we start with point clouds, we can do it!
+
+  reference: https://twitter.com/taiyasaki/status/1336843955619520521?s=20
+  
+- ##### Shape from Blur @ NeurIPS 2021
+
+  [Denys Rozumnyi](https://twitter.com/DRozumnyi)
+  
+  Shape from Blur will appear in NeurIPS 2021! We jointly reconstruct the 3D shape, texture, and 6D motion of a motion-blurred object from a single image.
+  
+  video: https://www.youtube.com/watch?v=hPYWh9KGiu8&ab_channel=DenysRozumnyi
+  
+  arXiv: https://arxiv.org/abs/2106.08762
+  
+  reference: https://twitter.com/DRozumnyi/status/1443187927861841921?s=20
+  
+- ##### Neural Trees for Learning on Graphs @ NeurIPS 2021
+
+  [Luca Carlone](https://twitter.com/lucacarlone1)
+  
+  Our Neural Tree paper has been accepted at #Neurips2021! kudos to Rajat, Siyi, & Lisa! The paper connects graph neural nets with inference in probabilistic graphical models, and provides a new architecture with strong theoretical & practical performance.
+  
+  paper: https://arxiv.org/pdf/2105.07264.pdf
+  
+  reference: https://twitter.com/lucacarlone1/status/1443210220302331906?s=20
