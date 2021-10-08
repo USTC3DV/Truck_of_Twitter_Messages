@@ -299,4 +299,13 @@ reference: https://twitter.com/qixing_huang/status/1442929109038862337?s=20
   - **Aaron Gokaslan:** Time of Flight Sensor + NERF = ToRF. Dynamic Scene View Synthesis is an underconstrained problem. We tackle this problem by incorporating measurements from Time of Flight cameras, which are often used as depth cameras on modern smartphones.
 
   - **Christian Richardt:** What do you get when you combine Time-of-Flight imaging with NeRF? — TöRF, of course! By modelling raw phasor measurements, our method becomes robust to phase wrapping, multi-path interference, low reflectance, and erroneous camera calibration. #NeurIPS2021
+
   reference: https://twitter.com/ak92501/status/1443741010471923713?s=20
+
+- ##### Hilti SLAM Challenge Dataset
+
+  [Davide Scaramuzza](https://twitter.com/davsca1)
+  
+  The datasets will remain publicly available and we hope they will become a new benchmark to improve state of the art  accuracy and robustness of SLAM systems for construction sites! The paper describing the dataset is here: https://arxiv.org/abs/2109.11316
+  
+  reference: https://twitter.com/davsca1/status/1444264714670903296?s=20
