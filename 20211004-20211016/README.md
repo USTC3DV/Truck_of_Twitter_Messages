@@ -4,6 +4,35 @@
 ***
 ### 课程和报告分享
 
+#### 3DV线上讨论会
+
+NEW APPROACHES TO 3D VISION 1st-4th November 2021 
+
+Pleased to announce this Royal Society (royalsociety) online meeting on 3D vision bringing together researchers in computer vision, animal vision, and human vision.  
+
+Website: [https://royalsociety.org/science-events-and-lectures/2021/11/3d-vision/…](https://t.co/s9OfSMHtgT?amp=1) 
+
+DAY 1 (1st Nov) – Seeing Beyond SLAM  Chair: Andrew Fitzgibbon ([@Awfidius](https://twitter.com/Awfidius))
+
+Session 1: Neural Scene Representation Ali Eslami ([@arkitus](https://twitter.com/arkitus)) + Ida Momennejad ([@criticalneuro](https://twitter.com/criticalneuro)) 
+
+Session 2: Perception-Action Loop Sergey Levine ([@svlevine](https://twitter.com/svlevine)) + Andrew Glennerster([@ag3dvr](https://twitter.com/ag3dvr))
+
+DAY 2 (2nd Nov) – Animals in Action  Chair: Matteo Carandini ([@MatteoCarandini](https://twitter.com/MatteoCarandini)) 
+
+Session 1: Locating Prey + Reward Jenny Read ([@jcaread](https://twitter.com/jcaread)) + Aman Saleem ([@Aman_sal](https://twitter.com/Aman_sal)) 
+
+Session 2: Navigation in 3D Space Kate Jeffery ([@drkjjeffery](https://twitter.com/drkjjeffery)) + Gily Ginosar ([@gilyginosar](https://twitter.com/gilyginosar))
+
+DAY 3 (3rd Nov) – Experiencing Space Chair: Mar Gonzalez-Franco ([@twi_mar](https://twitter.com/twi_mar)) 
+
+Session 1: Theories of Visual Space Dhanraj Vishwanath + Paul Linton ([@LintonVision](https://twitter.com/LintonVision)) 
+
+Session 2: Challenges for Virtual Reality Sarah Creem-Regehr ([@SarahCreem](https://twitter.com/SarahCreem)) + Douglas Lanman ([@douglaslanman](https://twitter.com/douglaslanman))
+
+DAY 4 (4th Nov) - Panel Discussion  The Chairs, Andrew Fitzgibbon ([@Awfidius](https://twitter.com/Awfidius)), Matteo Carandini ([@MatteoCarandini](https://twitter.com/MatteoCarandini)), Mar Gonzalez-Franco ([@twi_mar](https://twitter.com/twi_mar)), + Jody Culham ([@CulhamARI_Lab](https://twitter.com/CulhamARI_Lab)), share their thoughts on future directions for 3D vision
+
+reference:https://twitter.com/LintonVision/status/1446146817608060928
 
 ***
 ### 成果推荐及讨论
