@@ -309,3 +309,18 @@ reference: https://twitter.com/qixing_huang/status/1442929109038862337?s=20
   The datasets will remain publicly available and we hope they will become a new benchmark to improve state of the art  accuracy and robustness of SLAM systems for construction sites! The paper describing the dataset is here: https://arxiv.org/abs/2109.11316
   
   reference: https://twitter.com/davsca1/status/1444264714670903296?s=20
+  
+  
+- ##### PASS Dataset
+
+  [Yuki](https://twitter.com/y_m_asano)
+  
+  Today we  Oxford_VGG release the dataset 𝐏𝐀𝐒𝐒: 1.4M, CC-BY licensed images that do not depict humans, human parts or other PID. It can be used for self-supervised pretraining and works as well as ImageNet.
+ 
+  info & models: https://github.com/yukimasano/PASS/
+  paper: https://arxiv.org/abs/2109.13228
+  
+  <div align=center><img src="https://github.com/yukimasano/PASS/blob/main/pass.gif?raw=true" alt="Cover" width="75%"/></div>
+  
+  reference: https://twitter.com/y_m_asano/status/1442764357713244160
+  
