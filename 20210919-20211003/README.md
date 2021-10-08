@@ -277,3 +277,12 @@ reference: https://twitter.com/qixing_huang/status/1442929109038862337?s=20
   paper: https://arxiv.org/pdf/2105.07264.pdf
   
   reference: https://twitter.com/lucacarlone1/status/1443210220302331906?s=20
+
+- ##### a textless NLP model
+
+  [Facebook AI](https://twitter.com/facebookai)
+
+  GSLM, our first-of-its-kind “textless #NLP” model, learns to generate expressive speech using only raw audio as input. https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/. It generates novel content & prosody congruently with a prompt’s expressive style.
+  
+  reference: https://twitter.com/facebookai/status/1443991702297927683?s=20
+  
