@@ -7,6 +7,16 @@
 
 ***
 ### 成果推荐及讨论
+- ##### A Constraint-based Formulation of Stable Neo-Hookean Materials
+  [Miles Macklin](https://twitter.com/milesmacklin)
+
+  Our latest paper shows how to add Neo-Hookean FEM to PBD using two simple constraint functions. 
+  Paper: https://mmacklin.com/neohookean.pdf, 
+  Video: https://mmacklin.com/neohookean_mig.mp4, 
+  Demo: https://mmacklin.com/neohookean.html
+
+  reference:https://twitter.com/milesmacklin/status/1445853253145559047
+  
 - ##### ResNet strikes back: An improved training procedure in timm 
   [Ross Wightman](https://twitter.com/wightmanr)
 
