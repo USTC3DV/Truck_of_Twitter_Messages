@@ -96,6 +96,16 @@ reference:https://twitter.com/jbhuang0604/status/1441548826645602309
 
 ### 课程和报告分享
 
+
+#### NYU:Deep Learning Spring 2021 class
+
+course page:https://twitter.com/NYUDataScience/status/1443635953101275136
+
+<div align=center><img src="https://pbs.twimg.com/media/FAjTDoUVQAMGqZ_?format=jpg&name=small" alt="Cover" width="50%"/></div>
+
+reference:https://twitter.com/MLStreetTalk/status/1439517187119722497
+
+
 #### Geometric deep learning lecture
 
  Epic special edition MLST on geometric deep learning! Been in the works since May!
