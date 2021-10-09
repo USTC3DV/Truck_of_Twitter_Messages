@@ -84,3 +84,19 @@ reference:https://twitter.com/ak92501/status/1444839293390934021
   project page: https://nv-tlabs.github.io/inverse-rendering-3d-lighting/
   
   reference: https://twitter.com/zianwang97/status/1445226424324038657?s=20
+
+- ##### Compilable Markdown for Linear Algebra
+
+  [Yong Li](https://twitter.com/liontigeryong)
+  
+  Excited to share our SIGGRAPH Asia'21 paper with Shoaib Kamil, @_AlecJacobson and @yig: "I love LA: Compilable Markdown for Linear Algebra"
+  
+  <div align=center><img src="https://pbs.twimg.com/media/FBMAn0vXICAXMMe?format=jpg&name=large" alt="Cover" width="75%"/></div>
+  
+  Mathematicians conventionally communicate linear algebra like this on a chalkboard or notepad. But on a computer, they must choose between writing in a semantically-underdefined language like LaTeX and languages with well-defined semantics but notation that no longer resembles chalkboard math, such as C++, Python, or MATLAB. We introduce I love LA, a language designed to closely mimic conventionally-written linear algebra and compile the same source code into LaTeX, C++, Python, and MATLAB. We designed I love LA by analyzing 1987 equations from all 142 papers in SIGGRAPH North America 2019. We demonstrate I love LA by translating examples and replacing code in open source projects. And the examples still run! Try it now!
+  
+  Project Page: https://iheartla.github.io/
+  
+  - **Jordan Ford:** Cool project! Would it make sense to intersperse lines of math as comments in the generated C++? That way you can see which lines of C++ correspond to which lines of math.
+
+  reference: https://twitter.com/liontigeryong/status/1446501415833292801?s=20
