@@ -100,3 +100,13 @@ reference:https://twitter.com/ak92501/status/1444839293390934021
   - **Jordan Ford:** Cool project! Would it make sense to intersperse lines of math as comments in the generated C++? That way you can see which lines of C++ correspond to which lines of math.
 
   reference: https://twitter.com/liontigeryong/status/1446501415833292801?s=20
+
+- ##### Neo-Hookean model
+
+  [Miles Macklin](https://twitter.com/milesmacklin)
+  
+  Our latest paper shows how to add Neo-Hookean FEM to PBD using two simple constraint functions. Paper: https://mmacklin.com/neohookean.pdf, Video: https://mmacklin.com/neohookean_mig.mp4, Demo: https://mmacklin.com/neohookean.html
+  
+  The great thing about the Neo-Hookean model is that it doesn't require a polar decomposition or SVD, which is a common stumbling block for implementation. Also, unlike models based on Green strain (e.g.: St. Venant-Kirchhoff) it has strong volume conservation / inversion recovery.
+  
+  reference: https://twitter.com/milesmacklin/status/1445853253145559047?s=20
