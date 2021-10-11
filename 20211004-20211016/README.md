@@ -1,5 +1,29 @@
 ### 意见性分享
+#### 线上参会建议
 
+[Jia-Bin Huang](https://twitter.com/jbhuang0604)
+
+**How to network in a virtual conference?**
+
+**Excited to attend your first (virtual) conference?**
+
+**How do we meet new people and expand the professional network?  Some ideas that I found useful** 
+
+1.*Establish your goals before the conference* Check out the papers/workshops/networking sessions early. Identify the people you would really love to meet and create opportunities (cold-email, attend poster, ask questions.) You may find many people are incredibly approachable.
+
+2.*Attend zoom poster sessions* Unlike in-person conferences where you barely squeeze through the crowd, zoom poster sessions are great opportunities to meet people with similar interests.  Oh, and please turn on your camera! It's not THAT awkward (maybe just a bit).
+
+3.*Introduce yourself like Inigo Montoya* Like writing a cold email. The Inigo style is a simple and direct way of establishing a connection.
+
+4.*Blame your advisor* Homework assignment for my students attending a conference: Send me a list of 10 people (names/affiliations/research interests) that they did not know before each day. It's a good excuse for you to reach out and meet new people (in order to do your HW).
+
+5.*Sharing interesting contents with others* Sharing papers you like, talks you found inspiring, and quotes you found insightful.
+
+6.*Follow-up with your new connections* Send a short follow-up email could go a long way.
+
+7.*Be a decent human being* Don't discriminate, harass, and retaliate. It's really not that hard...
+
+8.*Explore collaboration* The best way to deepen the connection is to explore collaboration.
 
 ***
 ### 课程和报告分享
