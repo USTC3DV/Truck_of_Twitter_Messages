@@ -134,3 +134,23 @@ reference:https://twitter.com/ak92501/status/1444839293390934021
   The great thing about the Neo-Hookean model is that it doesn't require a polar decomposition or SVD, which is a common stumbling block for implementation. Also, unlike models based on Green strain (e.g.: St. Venant-Kirchhoff) it has strong volume conservation / inversion recovery.
   
   reference: https://twitter.com/milesmacklin/status/1445853253145559047?s=20
+
+- ##### cross-domain transfer in non-trivial continuous control
+
+  [Arnaud Fickinger](https://twitter.com/arnaudfickinger)
+  
+  We provably achieve cross-domain transfer in non-trivial continuous control domain by minimizing the Gromov-Wasserstein distance with deep RL.
+  
+  Paper: http://arxiv.org/abs/2110.03684
+  
+  Site: https://arnaudfickinger.github.io/gwil/
+  
+  <div align=center><img src="https://pbs.twimg.com/media/FBbg8htVgAMY4IL?format=jpg&name=4096x4096" alt="Cover" width="50%"/></div>
+  
+  Imitation Learning is a good way to alleviate reward engineering. However, it generally fails when the expert’s and agent’s domains are too different, hence achieving only weak transfer. We create a benchmark to study cross-domain transfer, ranging from simple rigid transformation of the expert domain to arbitrary transformation of the state-action space, and propose Gromov-Wasserstein Imitation Learning (GWIL) to solve the benchmark. GWIL solves the benchmark while only requiring a single demonstration in the expert domain. In particular, GWIL does not require proxy tasks, unlike previous work in cross-domain imitation learning. GWIL can transfer from pendulum to cartpole with only one demonstration in the pendulum domain and without any external reward. A walker applying GWIL with a single cheetah demonstration and without any external reward can learn to move backward and forward by literally imitating a cheetah! Our theory formally characterizes the scenarios where GWIL preserves optimality, revealing its possibilities and limitations.
+  
+  <div align=center><img src="https://pbs.twimg.com/media/FBbhkj2VIAMKv9N?format=png&name=large" alt="Cover" width="75%"/></div>
+  
+  <div align=center><img src="https://pbs.twimg.com/media/FBbhmNjVcAQinRi?format=jpg&name=large" alt="Cover" width="75%"/></div>
+  
+  reference: https://twitter.com/arnaudfickinger/status/1447592679433375755?s=20
