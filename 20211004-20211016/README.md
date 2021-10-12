@@ -154,3 +154,12 @@ reference:https://twitter.com/ak92501/status/1444839293390934021
   <div align=center><img src="https://pbs.twimg.com/media/FBbhmNjVcAQinRi?format=jpg&name=large" alt="Cover" width="75%"/></div>
   
   reference: https://twitter.com/arnaudfickinger/status/1447592679433375755?s=20
+
+- ##### Neural-GIF
+
+  [Gerard Pons-Moll](https://twitter.com/GerardPonsMoll1)
+  
+  Neural-GIF #ICCV2021. We use generalized Neural Implicit functions to control a neural implicit with pose. The trick to output such rich detail is to learn a deformation field before evaluating the neural distance field. Can be trained from raw scans without registration, and can be used to animate people and clothing. The formulation is clean and simple. The idea of expanding the shapes by deforming the underlying space is quite powerful. Check also the seminal Sclaroff and Pentland Siggraph'91 paper which inspires our work.
+  
+  reference: https://twitter.com/GerardPonsMoll1/status/1446915670667575299?s=20
+  
