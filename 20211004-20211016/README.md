@@ -192,3 +192,13 @@ reference:https://twitter.com/ak92501/status/1444839293390934021
   - **Noah Snavely:** A bunch of us are hanging out inside a nice #ICCV2021 video chat saloon type interface chatting about Infinite Nature right now!
   
   reference: https://twitter.com/akanazawa/status/1339789126434877440?s=20
+
+- ##### sketching new GANs
+
+  [Sheng-Yu Wang](https://twitter.com/ShengYuWang6)
+  
+  Presenting our work on sketching new GANs now. Come chat with us at #ICCV2021! @junyanz89, @davidbau, and I will be at Session 11A: 6pm - 7pm EDT today and Session 11B: 11am - 12pm EDT Friday.
+  
+  <div align=center><img src="https://pbs.twimg.com/media/FBnLjAtXMAMCt2R?format=jpg&name=4096x4096" alt="Cover" width="100%"/></div>
+  
+  reference: https://twitter.com/ShengYuWang6/status/1448412594415538178?s=20
