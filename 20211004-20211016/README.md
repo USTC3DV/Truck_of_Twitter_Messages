@@ -174,3 +174,21 @@ reference:https://twitter.com/ak92501/status/1444839293390934021
   project: ajayj.com/dietnerf
   
   reference: https://twitter.com/ajayj_/status/1379475290154356738?s=20
+
+- ##### View Synthesis
+
+  [Angjoo Kanazawa](https://twitter.com/akanazawa)
+  
+  View synthesis is super cool! How can we push it further to generate the world *far* beyond the edges of an image? We present Infinite Nature, a method that combines image synthesis and 3D to generate long videos of natural scenes from a single image.
+  
+  project: https://infinite-nature.github.io/
+  
+  We were inspired by all the beautiful aerial footage of nature online! We collected a dataset called Aerial Coastline Imagery Dataset (ACID) to train our model and released the initial version of it with SfM camera trajectories at the link above! Hope you find it useful!! Our approach can generate plausible scenes for much longer time horizons over large camera trajectories compared to existing methods.
+  
+  Preprint: http://arxiv.org/abs/2012.09855
+  
+  Project: http://infinite-nature.github.io
+  
+  - **Noah Snavely:** A bunch of us are hanging out inside a nice #ICCV2021 video chat saloon type interface chatting about Infinite Nature right now!
+  
+  reference: https://twitter.com/akanazawa/status/1339789126434877440?s=20
