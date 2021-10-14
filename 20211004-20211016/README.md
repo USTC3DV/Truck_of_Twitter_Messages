@@ -163,3 +163,14 @@ reference:https://twitter.com/ak92501/status/1444839293390934021
   
   reference: https://twitter.com/GerardPonsMoll1/status/1446915670667575299?s=20
   
+- ##### NeRF series
+
+  [Ajay Jain](https://twitter.com/ajayj_)
+  
+  Check out our new paper - we put NeRF on a diet! Given just 1 to 8 images, DietNeRF renders consistent novel views of an object using prior knowledge from large visual encoders like CLIP ViT. Given photos of a scene from many viewpoints, NeRF learns a volumetric representation that can be rendered from novel perspectives. NeRF works well given ~20-100 photos, but often not with a few (8, on left). DietNeRF adds an auxiliary loss that removes most artifacts (right). The core problem is that NeRF computes loss in pixel space, so renderings need to align pixel-wise with an observation. However, *a bulldozer is a bulldozer from any viewpoint*: images from different viewpoints share high-level semantic properties like object identity. Our DietNeRF regularizes the NeRF scene representation with a semantic consistency loss, computed in *a feature space*. This allows us to compare renderings from arbitrary poses. We use pre-trained CLIP and ImageNet Vision Transformers in experiments. pixelNeRF tackled the same problem by training NeRF on multiple similar scenes. This allows generalization to new scenes with only a few views. Using our loss, "DietPixelNeRF" synthesizes novel views with higher perceptual quality from *only a single monocular photo*. Our paper has details and bonus results, including extrapolation to completely unseen regions and tips for making this fast. Watch our video explanation for a quick overview: https://youtu.be/RF_3hsNizqw
+  
+  paper: https://arxiv.org/abs/2104.00677
+  
+  project: ajayj.com/dietnerf
+  
+  reference: https://twitter.com/ajayj_/status/1379475290154356738?s=20
