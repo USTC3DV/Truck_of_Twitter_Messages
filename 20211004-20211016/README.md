@@ -202,3 +202,59 @@ reference:https://twitter.com/ak92501/status/1444839293390934021
   <div align=center><img src="https://pbs.twimg.com/media/FBnLjAtXMAMCt2R?format=jpg&name=4096x4096" alt="Cover" width="100%"/></div>
   
   reference: https://twitter.com/ShengYuWang6/status/1448412594415538178?s=20
+
+- ##### Unsupervised 3D Learning in the Wild
+  [Kosta Derpanis](https://twitter.com/CSProfKGD)
+  
+  The talks for the #ICCV2021 Workshop on “Unsupervised 3D Learning in the Wild” are on YouTube.
+
+  Talks: http://youtu.be/UWNt5zbO668
+  Webpage: http://unsup3d.github.io
+
+  Shoutout to the organizers for a great workshop! 
+  @elliottszwu
+
+  @chrirupp
+
+  @NataliaNeverova
+  Paola Favaro & Andrea Vedaldi.
+  
+  reference: https://twitter.com/CSProfKGD/status/1448752007637000200
+  
+- ##### semantic segmentation with PixelPick
+  
+  [Visual Geometry Group (VGG)](https://twitter.com/Oxford_VGG)
+  
+  Congratulations to 
+  @gyunginshin, 
+  @WeidiXie
+  and 
+  @SamuelAlbanie
+  , who received the best paper award at the ILDAV workshop @ICCV2021 #ICCV2021!
+  
+  Title: “All you need are a few pixels: semantic segmentation with PixelPick”
+  Paper: https://arxiv.org/pdf/2104.06394.pdf
+  Code: https://github.com/NoelShin/PixelPick
+  
+  
+
+![Image](https://pbs.twimg.com/media/FBgjPM0UYAYMgKb?format=jpg&name=medium)
+
+- ##### ToFu
+  [Tianye Li](https://twitter.com/_TianyeLi)
+  ToFu enables efficient inference of accurate and registered 3D faces directly from images as well as skin details and textures.
+
+  If you are at #ICCV2021, please check our Q & A session (3A & 3B): today (Tue) 12pm - 1pm, Thur 7pm - 8pm EDT!
+
+  Project page: https://tianyeli.github.io/tofu
+  
+  reference: https://twitter.com/_TianyeLi/status/1447938306801537031
+
+- ##### FlowE
+  [Yuwen Xiong](https://twitter.com/yuwen_x)
+  
+  Curious about self-supervised learning from raw videos in the wild? Our #ICCV2021 paper FlowE proposed a Flow-Equivariance objective that leverages moving objects, useful for segmentation/detection. Check out paper+video for detail: http://arxiv.org/abs/2101.06553 
+  @RaquelUrtasun 
+  @mengyer
+  
+  reference: https://twitter.com/yuwen_x/status/1447916619318112265
