@@ -1,0 +1,82 @@
+### 成果推荐及讨论
+- [Haggai Maron](https://twitter.com/HaggaiMaron)
+  - Sign and Basis Invariant Networks: this paper studies how to process Laplacian-based graph positional encodings in an *invariant* way. Very nice theory and strong experimental results!
+  - paper: Sign and Basis Invariant Networks[https://arxiv.org/abs/2202.13013]
+
+- [AK](https://twitter.com/ak92501/status/1518771622274113542)
+  - Real-Time Neural Character Rendering with Pose-Guided Multiplane Images
+    - paper: https://arxiv.org/abs/2204.11820
+    - project page: https://ken-ouyang.github.io/cmpi/index.html
+
+  - StyleGAN-Human: A Data-Centric Odyssey of Human Generation
+    - project page: https://stylegan-human.github.io
+    - github: https://github.com/stylegan-human/StyleGAN-Human
+
+  - Deep Equilibrium Optical Flow Estimation
+    - paper: https://arxiv.org/abs/2204.08442
+    - github: https://github.com/locuslab/deq-flow
+
+  - Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing
+    - paper: https://arxiv.org/abs/2204.08906
+    - project page: https://phorhum.github.io
+
+  - What's in your hands? 3D Reconstruction of Generic Objects in Hands
+    - paper: https://arxiv.org/abs/2204.07153
+    - project page: https://judyye.github.io/ihoi/
+
+# [Timo Bolkart](https://twitter.com/BolkartTimo)
+  - Given a single image, EMOCA reconstructs a 3D face with facial expression detail that convey the emotional state of the input. (CVPR 2022)
+    - Code & model: https://github.com/radekd91/emoca
+    - paper: https://ps.is.mpg.de/uploads_file/attachment/attachment/686/EMOCA__CVPR22.pdf
+    - Video: https://youtu.be/zjMLB2-dVGw
+
+# [Arash Vahdat](https://twitter.com/ArashVahdat/status/1518633108764909569)
+  - Critically-Damped Langevin Diffusion augments the input data space with auxiliary velocity variables, leading to smoother and simpler diffusion models.
+    - Project page: https://nv-tlabs.github.io/CLD-SGM/
+    - ICLR page: https://iclr.cc/virtual/2022/poster/6687
+
+  - Denoising diffusion GAN uses a multimodal complex GAN denoising distribution for accelerating sampling from diffusion models. 
+    - Project page: https://nvlabs.github.io/denoising-diffusion-gan/
+    - ICLR page: https://iclr.cc/virtual/2022/poster/7183
+
+# [Andraw Davison](https://twitter.com/AjdDavison)
+  - The superpower of neural fields is scale-free representation of correlated high-dimensional information. In iLabel a small MLP jointly stores shape, colour, and many-channel open-set semantics; correlation is why dense segmentation can be trained with just a few real-time clicks.
+    - Project page: https://edgarsucar.github.io/ilabel/
+
+# [Michael Black](https://twitter.com/Michael_J_Black)
+  - Given the outside surface of the human body, can we peer inside and infer the bones?  Many methods predict a “skeleton” that is not realistic. With OSSO CVPR2022, for the first time, we learn to predict a detailed skeleton from external observations.
+    - Project: https://osso.is.tue.mpg.de
+    - Code: https://github.com/MarilynKeller/OSSO
+    - Paper: https://download.is.tue.mpg.de/osso/OSSO.pdf
+    - Data: see project page
+    - Video: https://youtube.com/watch?v=1wIiPVNDXY0
+
+  - BEV (#CVPR2022) computes all the 3D people in an image in one shot, placing them all appropriately in depth. The key novelty is an imaginary 2D “Bird’s-Eye-View” (BEV) representation that reasons about the body centers in depth.
+    - Code: https://github.com/Arthur151/ROMP
+    - Project: https://arthur151.github.io/BEV/BEV.html
+    - RH dataset: https://github.com/Arthur151/Relative_Human
+    - paper: https://arxiv.org/abs/2112.08274
+
+# [Gerard Pons-Moll](https://twitter.com/GerardPonsMoll1/status/1517111135572484097)
+  - BEHAVE: The first dataset with reliable 3D Human + Objects paired with images / depth. 
+  - Project: https://virtualhumans.mpi-inf.mpg.de/behave/
+
+# [Chiaraplizzari](https://twitter.com/chiaraplizzari/status/1516915975463088129)
+  - Egocentric action recognition has just met event-based cameras.
+  - paper: [E^2(GO)MOTION: Motion Augmented Event Stream for Egocentric Action Recognition](arxiv.org/pdf/2112.03596.pdf) (CVPR 2022)
+
+### 课程和报告分享
+#### [Hao Su Lab](https://twitter.com/HaoSuLabUCSD)
+  - Generalizable Policy Learning in the Physical World[https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/]
+  - Time: Apr 29th @ 8:00 AM PDT (UTC -7)
+
+
+### 意见分享及讨论
+#### 工具分享
+ - UE5 Group Paint Tool[https://twitter.com/hashtag/UE5?src=hashtag_click] 
+  - This is useful to quickly create/edit PolyGroups on areas of a triangulated mesh, which can then be locally edited with the PolyEd tool. Also includes a brief demo of our new UV Editor!
+
+
+### 招聘
+  - Davide Scaramuzza[https://twitter.com/davsca1]
+    - They have multiple openings for Phd students and Postdocs in machine learning for computer vision and vision-based robot navigation. Job descriptions and how to apply: https://rpg.ifi.uzh.ch/positions.html
